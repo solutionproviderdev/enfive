@@ -1098,3 +1098,760 @@ Perfect! Let’s move on to **Section 12**, focusing on the particle **が**, of
 
 ✅ **Section 12 Completed (Emphasized Subject Marker が)**
 Say **"Next Section 13 please"** to continue learning how to express **possession, location, and existence** using **あります／います**.
+
+
+Here we go! Let's dive into **Section 13**, where we learn how to express **possession**, **existence**, and **location** using the verbs **あります** (for things) and **います** (for people/animals). This is a key concept in JLPT N5!
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 13: あります／います (Existence & Possession)
+
+> **🔍 Focus:** Expressing possession, existence of people/objects, and locations
+> **🌐 Language:** Japanese with **English + বাংলা** explanation
+> **✨ Verbs:** ある／います
+
+---
+
+### 🔹 Grammar 1: ～があります (There is / There are – for inanimate things)
+
+| Grammar | Usage Pattern                  | Meaning                | বাংলা অর্থ                |
+| ------- | ------------------------------ | ---------------------- | ------------------------- |
+| ～があります  | \[Place] に + \[Thing] が + あります | There is/are something | কিছু কোথাও আছে (জড় বস্তু) |
+
+---
+
+### 📝 Examples:
+
+#### 📚 机の上に本があります。
+
+**Romaji:** Tsukue no ue ni hon ga arimasu.
+**Meaning:** There is a book on the desk. → টেবিলের উপর একটি বই আছে।
+
+#### 🌳 公園に木があります。
+
+**Romaji:** Kouen ni ki ga arimasu.
+**Meaning:** There is a tree in the park. → পার্কে একটি গাছ আছে।
+
+---
+
+### 🔹 Grammar 2: ～がいます (There is / are – for people or animals)
+
+| Grammar | Usage Pattern                         | Meaning                          | বাংলা অর্থ              |
+| ------- | ------------------------------------- | -------------------------------- | ----------------------- |
+| ～がいます   | \[Place] に + \[Person/Animal] が + います | There is/are someone/some animal | কেউ বা প্রাণী কোথাও আছে |
+
+---
+
+### 📝 Examples:
+
+#### 👦 学校に先生がいます。
+
+**Romaji:** Gakkou ni sensei ga imasu.
+**Meaning:** There is a teacher at school. → স্কুলে একজন শিক্ষক আছেন।
+
+#### 🐶 家に犬がいます。
+
+**Romaji:** Ie ni inu ga imasu.
+**Meaning:** There is a dog at home. → বাসায় একটি কুকুর আছে।
+
+---
+
+### 🔹 Grammar 3: ～があります for Possession (I have something)
+
+| Grammar | Usage Pattern                   | Meaning          | বাংলা অর্থ          |
+| ------- | ------------------------------- | ---------------- | ------------------- |
+| ～があります  | \[Person] は + \[Thing] が + あります | I have something | কিছু আছে (জড় বস্তু) |
+
+---
+
+### 📝 Examples:
+
+#### 👜 私はかばんがあります。
+
+**Romaji:** Watashi wa kaban ga arimasu.
+**Meaning:** I have a bag. → আমার একটি ব্যাগ আছে।
+
+---
+
+### 🔹 Grammar 4: ～がいます for Possession (Living things)
+
+| Grammar | Usage Pattern                          | Meaning                 | বাংলা অর্থ                       |
+| ------- | -------------------------------------- | ----------------------- | -------------------------------- |
+| ～がいます   | \[Person] は + \[Person/Animal] が + います | I have someone/some pet | কারও আছে (জীবিত মানুষ বা প্রাণী) |
+
+---
+
+### 📝 Examples:
+
+#### 👧 私は妹がいます。
+
+**Romaji:** Watashi wa imouto ga imasu.
+**Meaning:** I have a younger sister. → আমার ছোট বোন আছে।
+
+#### 🐱 彼は猫がいます。
+
+**Romaji:** Kare wa neko ga imasu.
+**Meaning:** He has a cat. → তার একটি বিড়াল আছে।
+
+---
+
+✅ **Section 13 Completed (あります／います Usage)**
+Say **"Next Section 14 please"** to explore **adjective usage and conjugation (i-adjective vs na-adjective)**.
+
+
+### ✅ Part 2: Full Section 14 — JLPT N5 Grammar Guide
+
+> **📘 Topic:** Adjective Conjugation (い-adjective & な-adjective)
+> **🌐 Language:** Japanese + English + বাংলা
+> **🖋 Style:** Stylish markdown for printing/PDF
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 14: Adjective Forms
+
+> **💡 Focus:** Learn how to use adjectives in **positive**, **negative**, and **past** forms.
+> Both **い-adjectives** (e.g. おいしい) and **な-adjectives** (e.g. きれい) are covered.
+
+---
+
+### 🔹 Part A: い-Adjective Conjugation
+
+| Form             | Rule   | Example        | বাংলা অর্থ       |
+| ---------------- | ------ | -------------- | ---------------- |
+| Present Positive | 〜い     | たかい → 高いです     | এটা দামী         |
+| Present Negative | 〜くない   | たかい → 高くないです   | এটা দামী না      |
+| Past Positive    | 〜かった   | たかい → 高かったです   | এটা দামী ছিলো    |
+| Past Negative    | 〜くなかった | たかい → 高くなかったです | এটা দামী ছিলো না |
+
+---
+
+**📝 Example Sentences (い-Adjective)**
+
+* このケーキはおいしいです。
+  *Kono keeki wa oishii desu.*
+  → এই কেকটি সুস্বাদু।
+
+* この店は高くないです。
+  *Kono mise wa takakunai desu.*
+  → এই দোকানটি দামী না।
+
+* 昨日の天気は寒かったです。
+  *Kinou no tenki wa samukatta desu.*
+  → গতকাল আবহাওয়া ঠান্ডা ছিলো।
+
+* 昨日のごはんはおいしくなかったです。
+  *Kinou no gohan wa oishikunakatta desu.*
+  → গতকালকের খাবার সুস্বাদু ছিলো না।
+
+---
+
+### 🔹 Part B: な-Adjective Conjugation
+
+| Form             | Rule             | Example    | বাংলা অর্থ        |
+| ---------------- | ---------------- | ---------- | ----------------- |
+| Present Positive | な + です           | しずか → 静かです | এটা শান্ত         |
+| Present Negative | じゃないです / ではありません | 静かじゃないです   | এটা শান্ত না      |
+| Past Positive    | でした              | 静かでした      | এটা শান্ত ছিলো    |
+| Past Negative    | じゃなかったです         | 静かじゃなかったです | এটা শান্ত ছিলো না |
+
+---
+
+**📝 Example Sentences (な-Adjective)**
+
+* この部屋はきれいです。
+  *Kono heya wa kirei desu.*
+  → এই রুমটি পরিষ্কার।
+
+* 学校はにぎやかじゃないです。
+  *Gakkou wa nigiyaka ja nai desu.*
+  → স্কুলটি ব্যস্ত না।
+
+* 昨日はひまだったです。
+  *Kinou wa hima datta desu.*
+  → গতকাল আমি ফাঁকা ছিলাম।
+
+* 先生は親切じゃなかったです。
+  *Sensei wa shinsetsu ja nakatta desu.*
+  → স্যার সহানুভূতিশীল ছিলেন না।
+
+---
+
+✅ **Section 14 Completed!**
+Say **"Next Section 15 please"** to continue with expressing **wants and desires**:
+〜たい、〜ほしい
+
+Would you like to move on?
+
+Certainly! Let's move forward with:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 15: Expressing Desires
+
+> **🎯 Focus:** Talking about what you want to **do** (〜たい) and what you **want** (〜ほしい)
+> **🧠 Level:** Core N5 usage – very common in daily conversations!
+> **🌐 Language:** Japanese + English + বাংলা
+> **📄 Style:** Printable markdown for PDF/book formatting
+
+---
+
+### 🔹 Grammar Point 1: 〜たい (Want to do...)
+
+| Grammar | Structure      | Meaning              | বাংলা অর্থ      |
+| ------- | -------------- | -------------------- | --------------- |
+| ～たい     | Verb stem + たい | want to do something | কিছু করতে চাওয়া |
+
+**📝 Notes:**
+
+* Only works with **action verbs** (like 食べる, 行く, 飲む).
+* Conjugates like an い-adjective.
+
+---
+
+#### ✅ Examples – たい Form
+
+| Japanese   | Romaji              | English                  | বাংলা                 |
+| ---------- | ------------------- | ------------------------ | --------------------- |
+| パンを食べたいです。 | Pan o tabetai desu. | I want to eat bread.     | আমি রুটি খেতে চাই।    |
+| 映画を見たいです。  | Eiga o mitai desu.  | I want to watch a movie. | আমি সিনেমা দেখতে চাই। |
+| 日本に行きたい。   | Nihon ni ikitai.    | I want to go to Japan.   | আমি জাপানে যেতে চাই।  |
+
+---
+
+#### 🚫 Negative Form
+
+| Japanese     | Romaji                    | English                    | বাংলা                 |
+| ------------ | ------------------------- | -------------------------- | --------------------- |
+| 寿司を食べたくないです。 | Sushi o tabetakunai desu. | I don’t want to eat sushi. | আমি সুসি খেতে চাই না। |
+
+---
+
+### 🔹 Grammar Point 2: 〜ほしい (Want something)
+
+| Grammar | Structure      | Meaning        | বাংলা অর্থ        |
+| ------- | -------------- | -------------- | ----------------- |
+| ～ほしい    | \[Noun] + がほしい | want something | কিছু চাওয়া (noun) |
+
+**📝 Notes:**
+
+* Use **が** particle before ほしい。
+* Only for **nouns** (not actions).
+
+---
+
+#### ✅ Examples – ほしい Form
+
+| Japanese    | Romaji                           | English            | বাংলা                    |
+| ----------- | -------------------------------- | ------------------ | ------------------------ |
+| 新しい車がほしいです。 | Atarashii kuruma ga hoshii desu. | I want a new car.  | আমি একটা নতুন গাড়ি চাই। |
+| お金がほしい。     | Okane ga hoshii.                 | I want money.      | আমি টাকা চাই।            |
+| 時間がほしくないです。 | Jikan ga hoshikunai desu.        | I don’t want time. | আমি সময় চাই না।         |
+
+---
+
+### 🧠 Quick Comparison
+
+| Expression | Used For        | Example                     |
+| ---------- | --------------- | --------------------------- |
+| 〜たい        | Actions (verbs) | パンを食べたい (want to eat bread) |
+| 〜ほしい       | Things (nouns)  | パンがほしい (want bread)         |
+
+---
+
+✅ **Section 15 Completed!**
+Say **"Next Section 16 please"** to learn how to express **intentions and plans** using ～つもり and ～予定.
+
+Would you like to move on?
+Absolutely! Here's:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 16: Expressing Intentions & Plans
+
+> **🎯 Focus:** Talk about future intentions using **～つもり** and planned events with **～予定**
+> **🧠 Level:** N5 essentials for expressing what you **plan to do** or what is **scheduled**
+> **🌐 Language:** Japanese + English + বাংলা
+> **📄 Style:** Consistent markdown – perfect for PDF/book formatting
+
+---
+
+### 🔹 Grammar Point 1: ～つもり (I intend to...)
+
+| Grammar | Structure                  | Meaning      | বাংলা অর্থ                      |
+| ------- | -------------------------- | ------------ | ------------------------------- |
+| ～つもり    | \[Dictionary Verb] + つもりです | intend to do | করার ইচ্ছা আছে / করবো ঠিক করেছি |
+
+---
+
+#### ✅ Examples – つもり Form
+
+| Japanese     | Romaji                            | English                        | বাংলা                                     |
+| ------------ | --------------------------------- | ------------------------------ | ----------------------------------------- |
+| 明日勉強するつもりです。 | Ashita benkyou suru tsumori desu. | I intend to study tomorrow.    | আমি আগামীকাল পড়াশোনা করবো বলে ঠিক করেছি। |
+| 日本に行くつもりです。  | Nihon ni iku tsumori desu.        | I plan to go to Japan.         | আমি জাপানে যাওয়ার ইচ্ছা রাখি।            |
+| 映画を見ないつもりです。 | Eiga o minai tsumori desu.        | I don’t plan to watch a movie. | আমি সিনেমা দেখবো না বলে ঠিক করেছি।        |
+
+---
+
+### 🔹 Grammar Point 2: ～予定 (Scheduled to...)
+
+| Grammar | Structure                 | Meaning         | বাংলা অর্থ                  |
+| ------- | ------------------------- | --------------- | --------------------------- |
+| ～予定     | \[Dictionary Verb] + 予定です | scheduled to do | নির্ধারিত আছে / শিডিউলে আছে |
+
+---
+
+#### ✅ Examples – 予定 Form
+
+| Japanese       | Romaji                                 | English                                 | বাংলা                             |
+| -------------- | -------------------------------------- | --------------------------------------- | --------------------------------- |
+| 旅行に行く予定です。     | Ryokou ni iku yotei desu.              | I am scheduled to go on a trip.         | আমার ঘুরতে যাওয়ার পরিকল্পনা আছে। |
+| 会議は３時に始まる予定です。 | Kaigi wa sanji ni hajimaru yotei desu. | The meeting is scheduled to start at 3. | মিটিংটি ৩টায় শুরু হওয়ার কথা।      |
+
+---
+
+### 🧠 Quick Tip
+
+| Expression | Use For                   | বাংলা অর্থ                      |
+| ---------- | ------------------------- | ------------------------------- |
+| ～つもり       | Personal intention        | নিজের ইচ্ছা বা সিদ্ধান্ত        |
+| ～予定        | Official schedule or plan | নির্ধারিত পরিকল্পনা বা টাইমটেবল |
+
+---
+
+✅ **Section 16 Completed!**
+Say **"Next Section 17 please"** to explore the grammar of **existence and location** with あります / います.
+
+Ready to continue?
+Great! Let's do both:
+
+---
+
+## ✅ JLPT N5 Grammar Guide – Section 17: Existence & Location (\~あります / \~います)
+
+> **📍 Focus:** Saying “something exists” or “someone is at a location” using **あります** and **います**
+> **🌱 Importance:** Critical for daily conversation (e.g., where things/people are)
+> **🔤 Language:** Japanese with full English + বাংলা
+
+---
+
+### 🔹 Grammar Point 1: ～があります (inanimate objects exist)
+
+| Grammar | Structure                    | Meaning           | বাংলা অর্থ          |
+| ------- | ---------------------------- | ----------------- | ------------------- |
+| ～があります  | Noun (non-living) + が + あります | there is / exists | কিছু আছে (জড় বস্তু) |
+
+**📝 Example:** 公園に木があります。
+**Romaji:** Kouen ni ki ga arimasu.
+**Meaning:** There is a tree in the park. → পার্কে একটি গাছ আছে।
+
+---
+
+### 🔹 Grammar Point 2: ～がいます (living things exist)
+
+| Grammar | Structure               | Meaning           | বাংলা অর্থ            |
+| ------- | ----------------------- | ----------------- | --------------------- |
+| ～がいます   | Noun (living) + が + います | there is / exists | কেউ/কিছু আছে (জীবন্ত) |
+
+**📝 Example:** 家に猫がいます。
+**Romaji:** Ie ni neko ga imasu.
+**Meaning:** There is a cat in the house. → বাড়িতে একটি বিড়াল আছে।
+
+---
+
+### 🔹 Bonus Usage: Location phrases
+
+| Location Word | Japanese | Romaji    | বাংলা |
+| ------------- | -------- | --------- | ----- |
+| Inside        | 中に       | naka ni   | ভিতরে |
+| On            | 上に       | ue ni     | উপরে  |
+| Under         | 下に       | shita ni  | নিচে  |
+| Next to       | 隣に       | tonari ni | পাশে  |
+| In front of   | 前に       | mae ni    | সামনে |
+
+**📝 Example:** テーブルの上に本があります。
+**Romaji:** Teeburu no ue ni hon ga arimasu.
+**Meaning:** There is a book on the table. → টেবিলের উপর একটি বই আছে।
+
+---
+
+### 🧠 Quick Summary
+
+| Expression | Use For                 | বাংলা অর্থ          |
+| ---------- | ----------------------- | ------------------- |
+| ～あります      | Things (non-living)     | জড় বস্তু            |
+| ～います       | People/Animals (living) | জীবন্ত প্রাণী/মানুষ |
+
+---
+
+✅ **Section 17 Completed!**
+
+--- Absolutely! Here's your next full section:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 18: Giving & Receiving
+
+> **🎁 Focus:** Expressions for giving, receiving, and understanding directionality between people using:
+> **あげる・くれる・もらう**
+> **🔤 Language:** Japanese with English + বাংলা explanation
+
+---
+
+### 🔹 Grammar Point 1: あげる – to *give* (when *I* give to someone else or 3rd person gives to another 3rd person)
+
+| Grammar                                  | Structure                   | Meaning          | বাংলা অর্থ |
+| ---------------------------------------- | --------------------------- | ---------------- | ---------- |
+| \[Giver] は \[Receiver] に \[Object] を あげる | to give (upward or neutral) | কাউকে কিছু দেওয়া |            |
+
+**📝 Example:**
+私は彼にプレゼントをあげました。
+**Romaji:** Watashi wa kare ni purezento o agemashita.
+**Meaning:** I gave him a present. → আমি তাকে একটি উপহার দিয়েছিলাম।
+
+---
+
+### 🔹 Grammar Point 2: くれる – to *give* (when someone gives something *to me*)
+
+| Grammar                       | Structure                | Meaning          | বাংলা অর্থ |
+| ----------------------------- | ------------------------ | ---------------- | ---------- |
+| \[Giver] は 私に \[Object] を くれる | to give (toward speaker) | আমাকে কিছু দেওয়া |            |
+
+**📝 Example:**
+彼は私にお菓子をくれました。
+**Romaji:** Kare wa watashi ni okashi o kuremashita.
+**Meaning:** He gave me sweets. → সে আমাকে মিষ্টি দিয়েছে।
+
+---
+
+### 🔹 Grammar Point 3: もらう – to *receive* something
+
+| Grammar                                  | Structure  | Meaning                | বাংলা অর্থ |
+| ---------------------------------------- | ---------- | ---------------------- | ---------- |
+| \[Receiver] は \[Giver] に \[Object] を もらう | to receive | কিছু পাওয়া / গ্রহণ করা |            |
+
+**📝 Example:**
+私は友達に手紙をもらいました。
+**Romaji:** Watashi wa tomodachi ni tegami o moraimashita.
+**Meaning:** I received a letter from a friend. → আমি বন্ধুর কাছ থেকে চিঠি পেয়েছিলাম।
+
+---
+
+### 🧠 Summary Table
+
+| Japanese | Direction         | Context         | বাংলা       |
+| -------- | ----------------- | --------------- | ----------- |
+| あげる      | Away from speaker | I/They → Others | দেওয়া       |
+| くれる      | Toward speaker    | They → Me       | আমাকে দেওয়া |
+| もらう      | From others → Me  | I got from them | পাওয়া       |
+
+---
+
+### 🔄 Bonus: Tense Variants
+
+| Verb | Present | Past   | Negative | Past-Negative |
+| ---- | ------- | ------ | -------- | ------------- |
+| あげる  | あげます    | あげました  | あげません    | あげませんでした      |
+| くれる  | くれます    | くれました  | くれません    | くれませんでした      |
+| もらう  | もらいます   | もらいました | もらいません   | もらいませんでした     |
+
+---
+
+✅ **Section 18 Completed!**
+Say **“Next Section 19 please”** when you're ready for:
+🚀 **Expressing Ability with 〜ことができる**!
+Sure! Here's your next chapter:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 19: Expressing Ability with ～ことができる
+
+> **🎯 Focus:** Describing **what someone can or cannot do**
+> **🔤 Language:** Japanese with English + বাংলা explanation
+> **Covers:** Verb nominalization + できる constructions
+
+---
+
+### 🔹 Grammar Point: ～ことができる
+
+| Grammar                          | Structure        | Meaning        | বাংলা অর্থ |
+| -------------------------------- | ---------------- | -------------- | ---------- |
+| \[Verb Dictionary Form] + ことができる | can do something | কিছু করতে পারা |            |
+
+**📝 Example:**
+日本語を話すことができます。
+**Romaji:** Nihongo o hanasu koto ga dekimasu.
+**Meaning:** I can speak Japanese. → আমি জাপানি বলতে পারি।
+
+---
+
+### 🔹 Negative Form
+
+| Positive | Negative  |
+| -------- | --------- |
+| ～ことができます | ～ことができません |
+
+**📝 Example:**
+泳ぐことができません。
+**Romaji:** Oyogu koto ga dekimasen.
+**Meaning:** I cannot swim. → আমি সাঁতার কাটতে পারি না।
+
+---
+
+### 🔹 Past Form (Less common in N5)
+
+| Positive Past | Negative Past |
+| ------------- | ------------- |
+| ～ことができました     | ～ことができませんでした  |
+
+**📝 Example:**
+昨日、買い物することができました。
+**Romaji:** Kinō, kaimono suru koto ga dekimashita.
+**Meaning:** Yesterday, I was able to shop. → গতকাল আমি কেনাকাটা করতে পেরেছিলাম।
+
+---
+
+### 🧠 Tips:
+
+* The verb must be in **dictionary form** before attaching **ことができる**
+* It turns the verb into a noun-like structure that allows the use of **できる (can do)**
+
+---
+
+✅ **Section 19 Completed!**
+Say **“Next Section 20 please”** to continue with:
+🎯 **Making Requests using ～ください / ～ませんか？**
+Here’s your next chapter!
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 20: Making Requests – ～ください / ～ませんか？
+
+> **🎯 Focus:** Politely asking someone to do something
+> **🔤 Language:** Japanese with English + বাংলা explanation
+> **Covers:** Requests, suggestions, soft imperatives
+
+---
+
+### 🔹 Grammar Point: ～てください (Please do...)
+
+| Grammar                  | Structure             | Meaning              | বাংলা অর্থ |
+| ------------------------ | --------------------- | -------------------- | ---------- |
+| \[Verb in て-form] + ください | Please do (something) | অনুগ্রহ করে ... করুন |            |
+
+**📝 Example:**
+ドアを開けてください。
+**Romaji:** Doa o akete kudasai.
+**Meaning:** Please open the door. → দয়া করে দরজাটা খুলে দিন।
+
+---
+
+### 🔹 Grammar Point: ～ないでください (Please don’t...)
+
+| Grammar                    | Structure          | Meaning                  | বাংলা অর্থ |
+| -------------------------- | ------------------ | ------------------------ | ---------- |
+| \[Verb in ない-form] + でください | Please don’t do... | অনুগ্রহ করে ... করবেন না |            |
+
+**📝 Example:**
+ここで写真を撮らないでください。
+**Romaji:** Koko de shashin o toranaide kudasai.
+**Meaning:** Please don’t take photos here. → এখানে ছবি তুলবেন না।
+
+---
+
+### 🔹 Grammar Point: ～ませんか？ (Would you like to...? / Shall we...?)
+
+| Grammar                   | Structure                    | Meaning                            | বাংলা অর্থ |
+| ------------------------- | ---------------------------- | ---------------------------------- | ---------- |
+| \[Verb in ます-form] + ませんか | Shall we...? / Won’t you...? | চলুন না...? / আপনি কি করবেন না...? |            |
+
+**📝 Example:**
+一緒に行きませんか？
+**Romaji:** Issho ni ikimasen ka?
+**Meaning:** Shall we go together? → আমরা একসাথে যাবো না?
+
+---
+
+### 🧠 Notes:
+
+* Use **～てください** for clear, polite instructions.
+* Use **～ませんか？** to invite or suggest without pressure.
+* Use **～ないでください** when telling someone NOT to do something politely.
+
+---
+
+✅ **Section 20 Completed!**
+Say **“Next Section 21 please”** to continue with:
+🎯 **Expressing Want – ～たいです / ～たくないです**
+Here’s your next chapter in the JLPT N5 grammar journey:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 21: Expressing Wants – ～たいです / ～たくないです
+
+> **🎯 Focus:** Talking about what you or someone wants to do
+> **🔤 Language:** Japanese with English + বাংলা explanation
+> **Covers:** Desires (do / don’t want to), using with verbs
+
+---
+
+### 🔹 Grammar Point: ～たいです (want to do)
+
+| Grammar            | Structure            | Meaning          | বাংলা অর্থ |
+| ------------------ | -------------------- | ---------------- | ---------- |
+| Verb (stem) + たいです | Want to do something | কিছু করতে চাওয়া |            |
+
+**📝 Example:**
+日本へ行きたいです。
+**Romaji:** Nihon e ikitai desu.
+**Meaning:** I want to go to Japan. → আমি জাপানে যেতে চাই।
+
+---
+
+### 🔹 Grammar Point: ～たくないです (don’t want to do)
+
+| Grammar              | Structure                  | Meaning             | বাংলা অর্থ |
+| -------------------- | -------------------------- | ------------------- | ---------- |
+| Verb (stem) + たくないです | Don’t want to do something | কিছু করতে না চাওয়া |            |
+
+**📝 Example:**
+野菜を食べたくないです。
+**Romaji:** Yasai o tabetakunai desu.
+**Meaning:** I don’t want to eat vegetables. → আমি সবজি খেতে চাই না।
+
+---
+
+### 🔹 Bonus: Asking Others – ～たいですか？
+
+| Grammar              | Structure          | Meaning               | বাংলা অর্থ |
+| -------------------- | ------------------ | --------------------- | ---------- |
+| Verb (stem) + たいですか？ | Do you want to...? | আপনি কি ... করতে চান? |            |
+
+**📝 Example:**
+何を食べたいですか？
+**Romaji:** Nani o tabetai desu ka?
+**Meaning:** What do you want to eat? → আপনি কী খেতে চান?
+
+---
+
+### 🔍 Verb Conjugation Tip:
+
+| Verb                  | Stem      | Add     | Example  |
+| --------------------- | --------- | ------- | -------- |
+| 行く (iku – to go)      | 行き (iki)  | +たいです   | 行きたいです   |
+| 食べる (taberu – to eat) | 食べ (tabe) | +たくないです | 食べたくないです |
+
+---
+
+✅ **Section 21 Completed!**
+Say **“Next Section 22 please”** to continue with:
+🎯 **Expressing "must do" or obligation – ～なければなりません / ～なきゃ**
+Absolutely! Here's the next grammar section for JLPT N5:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 22: Expressing Obligation – ～なければなりません / ～なきゃ
+
+> **🎯 Focus:** Expressing things that **must be done**
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+> **Covers:** Rules, duties, obligations, soft forms
+
+---
+
+### 🔹 Grammar Point: ～なければなりません
+
+| Grammar                    | Structure         | Meaning        | বাংলা অর্থ |
+| -------------------------- | ----------------- | -------------- | ---------- |
+| Verb (ない-form) + なければなりません | must do something | কিছু করতেই হবে |            |
+
+**📝 Example:**
+薬を飲まなければなりません。
+**Romaji:** Kusuri o nomanakereba narimasen.
+**Meaning:** I must take medicine. → আমার ওষুধ খেতেই হবে।
+
+---
+
+### 🔹 Grammar Point: ～なきゃ (casual form)
+
+| Grammar              | Structure                  | Meaning                 | বাংলা অর্থ |
+| -------------------- | -------------------------- | ----------------------- | ---------- |
+| Verb (ない-form) + なきゃ | gotta / have to (informal) | করতেই হবে (অফিসিয়াল নয়) |            |
+
+**📝 Example:**
+行かなきゃ。
+**Romaji:** Ikanakya.
+**Meaning:** Gotta go. → যেতেই হবে।
+
+---
+
+### 🔍 ない-form to なければなりません Conversion
+
+| Verb         | ない-form | Add                 | Final Form  |
+| ------------ | ------- | ------------------- | ----------- |
+| 食べる (to eat) | 食べない    | remove い + ければなりません | 食べなければなりません |
+| 行く (to go)   | 行かない    | remove い + ければなりません | 行かなければなりません |
+
+---
+
+✅ **Section 22 Completed!**
+
+Say **“Next Section 23 please”** to move on to:
+🎯 **"Can Do" Expressions – ～ことができる / ～られる / ～える verbs**
+Here’s your next chapter!
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 23: Expressing Ability – ～ことができる / ～られる / ～える Verbs
+
+> **🎯 Focus:** Talking about what you *can do*
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+> **Covers:** potential form of verbs, and ～ことができる constructions
+
+---
+
+### 🔹 Grammar Point 1: ～ことができる (can do)
+
+| Grammar                         | Structure      | Meaning           | বাংলা অর্থ |
+| ------------------------------- | -------------- | ----------------- | ---------- |
+| Verb (dictionary form) + ことができる | can do \[verb] | \[কিছু] করতে পারা |            |
+
+**📝 Example:**
+日本語を話すことができます。
+**Romaji:** Nihongo o hanasu koto ga dekimasu.
+**Meaning:** I can speak Japanese. → আমি জাপানিজ বলতে পারি।
+
+---
+
+### 🔹 Grammar Point 2: ～られる (Potential Form – Group II Verbs)
+
+| Verb Group         | Rule            | Example               |
+| ------------------ | --------------- | --------------------- |
+| Group II (る verbs) | Drop る, add られる | 食べる → 食べられる (can eat) |
+
+**📝 Example:**
+私はたくさん食べられます。
+**Meaning:** I can eat a lot. → আমি অনেক খেতে পারি।
+
+---
+
+### 🔹 Grammar Point 3: ～える Verbs (Potential Form – Group I Verbs)
+
+| Verb Group        | Rule                | Example                                 |
+| ----------------- | ------------------- | --------------------------------------- |
+| Group I (う verbs) | Change う → える sound | 行く → 行ける (can go), 書く → 書ける (can write) |
+
+**📝 Example:**
+泳げますか？
+**Romaji:** Oyogemasu ka?
+**Meaning:** Can you swim? → আপনি কি সাঁতার কাটতে পারেন?
+
+---
+
+📌 **Extra Tip:** Use ～ことができる for **formal or general-purpose**, and use ～られる／～える for **shorter, casual forms**.
+
+---
+
+✅ **Section 23 Completed!**
+
+Say **“Next Section 24 please”** to move forward with:
+🎯 **Expressing Experience – ～たことがある** (Have done something before)
