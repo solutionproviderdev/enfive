@@ -1855,3 +1855,396 @@ Here’s your next chapter!
 
 Say **“Next Section 24 please”** to move forward with:
 🎯 **Expressing Experience – ～たことがある** (Have done something before)
+
+Here’s your next chapter!
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 24: Expressing Experience – ～たことがある
+
+> **🎯 Focus:** Talking about *past experiences*
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+> **Covers:** how to say "I have done..." or "I have been to..."
+
+---
+
+### 🔹 Grammar Point: ～たことがある
+
+| Grammar               | Structure                | Meaning                | বাংলা অর্থ |
+| --------------------- | ------------------------ | ---------------------- | ---------- |
+| Verb (た-form) + ことがある | have done \[verb] before | আগে করেছি / কখনো করেছি |            |
+
+---
+
+### 🧠 How to form the た-form:
+
+| Verb Type | Rule                  | Example            |
+| --------- | --------------------- | ------------------ |
+| る-verbs   | Drop る, add た         | 食べる → 食べた          |
+| う-verbs   | Change to past casual | 行く → 行った, 飲む → 飲んだ |
+
+---
+
+### 📝 Example Sentences
+
+1. **日本へ行ったことがあります。**
+   **Romaji:** Nihon e itta koto ga arimasu.
+   **Meaning:** I have been to Japan. → আমি জাপানে গিয়েছি।
+
+2. **寿司を食べたことがありますか？**
+   **Romaji:** Sushi o tabeta koto ga arimasu ka?
+   **Meaning:** Have you ever eaten sushi? → আপনি কি কখনো সুসি খেয়েছেন?
+
+3. **日本のアニメを見たことがあります。**
+   **Romaji:** Nihon no anime o mita koto ga arimasu.
+   **Meaning:** I have watched Japanese anime. → আমি জাপানি অ্যানিমে দেখেছি।
+
+---
+
+📌 **Extra Tip:**
+Use this to talk about past **experiences**, not just past events. Great for making conversation or sharing life history in Japanese.
+
+---
+
+✅ **Section 24 Completed!**
+
+Say **“Next Section 25 please”** to move forward with:
+🎯 **Trying something – ～てみる** (Try doing something)
+Here you go!
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 25: Trying Something – ～てみる
+
+> **🎯 Focus:** How to say *“Try doing something”* in Japanese
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+> **Covers:** Attempting an action for the first time, or experimenting
+
+---
+
+### 🔹 Grammar Point: ～てみる
+
+| Grammar            | Structure              | Meaning             | বাংলা অর্থ |
+| ------------------ | ---------------------- | ------------------- | ---------- |
+| Verb (て-form) + みる | to try doing something | কিছু করা চেষ্টা করা |            |
+
+---
+
+### 📝 Example Sentences
+
+1. **新しいレストランで食べてみます。**
+   **Romaji:** Atarashii resutoran de tabete mimasu.
+   **Meaning:** I’ll try eating at the new restaurant. → নতুন রেস্টুরেন্টে খাওয়ার চেষ্টা করবো।
+
+2. **この服を着てみてもいいですか？**
+   **Romaji:** Kono fuku o kite mite mo ii desu ka?
+   **Meaning:** May I try wearing this outfit? → এই পোশাকটা পরে দেখতে পারি কি?
+
+3. **漢字を書いてみました。**
+   **Romaji:** Kanji o kaite mimashita.
+   **Meaning:** I tried writing kanji. → আমি কানজি লিখে দেখেছি।
+
+---
+
+📌 **Usage Tip:**
+Use ～てみる when you're **experimenting** or **trying something new** for the first time.
+
+---
+
+✅ **Section 25 Completed!**
+
+Say **"Next Section 26 please"** to continue with:
+📚 **Too much / Too difficult – ～すぎる** (Expressing excess)
+Here’s your next installment!
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 26: Expressing Excess – ～すぎる
+
+> **🧩 Focus:** Saying something is *too much*, like *too hot*, *too fast*, *too expensive*, etc.
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+> **💡 Hint:** Very commonly used with adjectives and verbs
+
+---
+
+### 🔹 Grammar Point: ～すぎる (Too much / Excessive)
+
+| Grammar | Usage Pattern                                | Meaning               | বাংলা অর্থ          |
+| ------- | -------------------------------------------- | --------------------- | ------------------- |
+| ～すぎる    | Verb stem / i-adjective / na-adjective + すぎる | too much; excessively | অতিরিক্ত / খুব বেশি |
+
+---
+
+### 📝 Usage Breakdown:
+
+#### 1️⃣ For Verbs
+
+**Pattern:** Verb stem + すぎる
+
+> **Example:** 食べすぎる (tabesugiru) → to eat too much
+> **বাংলা:** বেশি খেয়ে ফেলা
+
+#### 2️⃣ For い-adjectives
+
+**Pattern:** Drop い + すぎる
+
+> **Example:** 高すぎる (takasugiru) → too expensive
+> **বাংলা:** খুব দামি
+
+#### 3️⃣ For な-adjectives
+
+**Pattern:** Adjective + すぎる
+
+> **Example:** 静かすぎる (shizukasugiru) → too quiet
+> **বাংলা:** খুব শান্ত
+
+---
+
+### 🧪 Example Sentences:
+
+* この靴は小さすぎます。
+  **Romaji:** Kono kutsu wa chiisasugimasu.
+  **Meaning:** These shoes are too small.
+  **বাংলা:** এই জুতাগুলো খুব ছোট।
+
+---
+
+* 彼は働きすぎです。
+  **Romaji:** Kare wa hatarakisugi desu.
+  **Meaning:** He works too much.
+  **বাংলা:** সে খুব বেশি কাজ করে।
+
+---
+
+* このカレーは辛すぎる。
+  **Romaji:** Kono karee wa karasugiru.
+  **Meaning:** This curry is too spicy.
+  **বাংলা:** এই কারি খুব ঝাল।
+
+---
+
+### ✅ Key Notes:
+
+* すぎる is written in **kana** form most of the time.
+* Conjugates like any regular **る-verb**:
+
+  * **Past:** ～すぎた
+  * **Negative:** ～すぎない
+
+---
+
+✅ **Section 26 Completed**
+Say **"Next Section 27 please"** when you're ready to move on to **"Want to do" → ～たい** form!
+
+Let’s keep going and polish this N5 book to perfection! 💪📘
+Awesome! Let's move on to:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 27: Expressing Desire – ～たい
+
+> **🧩 Focus:** Saying what you *want to do* using verbs
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+> **🎯 Usage:** Expressing personal wants (e.g. *I want to eat*, *I want to go*)
+
+---
+
+### 🔹 Grammar Point: ～たい (Want to do)
+
+| Grammar | Usage Pattern  | Meaning              | বাংলা অর্থ             |
+| ------- | -------------- | -------------------- | ---------------------- |
+| ～たい     | Verb stem + たい | want to do something | কিছু করতে ইচ্ছা প্রকাশ |
+
+---
+
+### 📝 Usage Breakdown:
+
+* Attach **たい** to the stem of an **action verb**
+* Used only for **your own desires**, or when you're asking someone directly
+
+---
+
+### 🧪 Example Sentences:
+
+* 寿司を食べたいです。
+  **Romaji:** Sushi o tabetai desu.
+  **Meaning:** I want to eat sushi.
+  **বাংলা:** আমি সুশি খেতে চাই।
+
+---
+
+* 日本へ行きたい。
+  **Romaji:** Nihon e ikitai.
+  **Meaning:** I want to go to Japan.
+  **বাংলা:** আমি জাপানে যেতে চাই।
+
+---
+
+* 水を飲みたくない。
+  **Romaji:** Mizu o nomitakunai.
+  **Meaning:** I don’t want to drink water.
+  **বাংলা:** আমি পানি খেতে চাই না।
+
+---
+
+### 🔁 Conjugation Variants:
+
+| Form          | Conjugation | Meaning        | বাংলা অর্থ     |
+| ------------- | ----------- | -------------- | -------------- |
+| Negative      | ～たくない       | don’t want to  | করতে চাই না    |
+| Past          | ～たかった       | wanted to      | করতে চেয়েছিলাম |
+| Past-Negative | ～たくなかった     | didn’t want to | করতে চাইনি     |
+
+---
+
+### ⚠️ Important Notes:
+
+* Only used for **speaker’s own feelings**, or in **questions** about someone else’s desires.
+* If you want to say what *someone else* wants (3rd person), use:
+  👉 ～たがっている
+
+> 彼は遊びたがっている。
+> Kare wa asobitagatte iru.
+> He seems to want to play.
+> **বাংলা:** সে খেলতে চাইছে বলে মনে হচ্ছে।
+
+---
+
+✅ **Section 27 Completed**
+Say **"Next Section 28 please"** when you're ready for **〜ないでください (Please don’t...)** 🚫
+
+Let’s keep building! 📘🔥
+Here's **📘 Section 29: Permission & Prohibition (～てもいいですか / ～てはいけません)** in full Markdown style:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 29: Permission & Prohibition
+
+> **📌 Focus:** Asking for permission and expressing what is not allowed
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+
+---
+
+### 🔹 Grammar Point 1: ～てもいいですか？
+
+→ *May I...?* (Requesting Permission)
+
+| Grammar   | Usage Pattern                | Meaning                         | অর্থ (বাংলা)          |
+| --------- | ---------------------------- | ------------------------------- | --------------------- |
+| ～てもいいですか？ | \[Te-form Verb] + も + いいですか？ | Is it okay if I...? / May I...? | আমি কি ... করতে পারি? |
+
+**📝 Example:** トイレに行ってもいいですか？
+**Romaji:** Toire ni itte mo ii desu ka?
+**Meaning:** May I go to the toilet? → আমি কি টয়লেটে যেতে পারি?
+
+---
+
+### 🔹 Grammar Point 2: ～てもいいです
+
+→ *You may...* (Giving Permission)
+
+| Grammar | Usage Pattern              | Meaning                      | অর্থ (বাংলা)           |
+| ------- | -------------------------- | ---------------------------- | ---------------------- |
+| ～てもいいです | \[Te-form Verb] + も + いいです | It’s okay to... / You may... | ...করতে পারো / ঠিক আছে |
+
+**📝 Example:** 写真を撮ってもいいです。
+**Romaji:** Shashin o totte mo ii desu.
+**Meaning:** You may take pictures. → ছবি তুলতে পারো।
+
+---
+
+### 🔹 Grammar Point 3: ～てはいけません
+
+→ *You must not...* (Prohibition)
+
+| Grammar  | Usage Pattern               | Meaning                         | অর্থ (বাংলা)        |
+| -------- | --------------------------- | ------------------------------- | ------------------- |
+| ～てはいけません | \[Te-form Verb] + は + いけません | You must not / It’s not allowed | করা যাবে না / নিষেধ |
+
+**📝 Example:** ここでタバコを吸ってはいけません。
+**Romaji:** Koko de tabako o sutte wa ikemasen.
+**Meaning:** You must not smoke here. → এখানে ধূমপান করা যাবে না।
+
+---
+
+### 🔹 Grammar Point 4: 〜てはだめです
+
+→ *Not allowed* (Casual speech)
+
+| Grammar | Usage Pattern              | Meaning                     | অর্থ (বাংলা)         |
+| ------- | -------------------------- | --------------------------- | -------------------- |
+| ～てはだめです | \[Te-form Verb] + は + だめです | Not allowed / Don’t do that | চলবে না / এটা করো না |
+
+**📝 Example:** さわってはだめです。
+**Romaji:** Sawatte wa dame desu.
+**Meaning:** Don’t touch. → স্পর্শ করা চলবে না।
+
+---
+
+✅ **Section 29 Completed**
+Say **"Next Section 30 please"** to move into expressing **desire** with ～たいです (I want to...).
+Here’s **📘 Section 30: Expressing Desire with ～たいです** in full Markdown format:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 30: Expressing Desire – ～たいです
+
+> **📌 Focus:** Expressing what you or others want to do
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+
+---
+
+### 🔹 Grammar Point: ～たいです
+
+→ *I want to…*
+
+| Grammar | Usage Pattern       | Meaning      | অর্থ (বাংলা)     |
+| ------- | ------------------- | ------------ | ---------------- |
+| ～たいです   | \[Verb Stem] + たいです | I want to... | আমি ... করতে চাই |
+
+**📝 Example:** 日本へ行きたいです。
+**Romaji:** Nihon e ikitai desu.
+**Meaning:** I want to go to Japan. → আমি জাপান যেতে চাই।
+
+---
+
+### 🔹 Negative Form: ～たくないです
+
+→ *I don’t want to…*
+
+| Grammar | Usage Pattern         | Meaning            | অর্থ (বাংলা)        |
+| ------- | --------------------- | ------------------ | ------------------- |
+| ～たくないです | \[Verb Stem] + たくないです | I don’t want to... | আমি ... করতে চাই না |
+
+**📝 Example:** 勉強したくないです。
+**Romaji:** Benkyou shitakunai desu.
+**Meaning:** I don’t want to study. → আমি পড়াশোনা করতে চাই না।
+
+---
+
+### 🔹 Asking Others: ～たいですか？
+
+→ *Do you want to...?*
+
+| Grammar | Usage Pattern         | Meaning            | অর্থ (বাংলা)          |
+| ------- | --------------------- | ------------------ | --------------------- |
+| ～たいですか？ | \[Verb Stem] + たいですか？ | Do you want to...? | আপনি কি ... করতে চান? |
+
+**📝 Example:** 寿司を食べたいですか？
+**Romaji:** Sushi o tabetai desu ka?
+**Meaning:** Do you want to eat sushi? → আপনি কি সুশি খেতে চান?
+
+---
+
+### 🔹 With Object Particle: ～を + Verbたい
+
+Use the object particle **を** before the verb.
+
+**📝 Example:** 水を飲みたいです。
+**Romaji:** Mizu o nomitai desu.
+**Meaning:** I want to drink water. → আমি পানি খেতে চাই।
+
+---
+
+✅ **Section 30 Completed**
+Say **"Next Section 31 please"** to continue with: **Giving and Receiving (あげる・もらう・くれる)**.
