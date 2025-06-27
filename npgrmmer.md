@@ -2248,3 +2248,476 @@ Use the object particle **を** before the verb.
 
 ✅ **Section 30 Completed**
 Say **"Next Section 31 please"** to continue with: **Giving and Receiving (あげる・もらう・くれる)**.
+
+Here’s **📘 Section 31: Giving & Receiving – あげる・もらう・くれる** in full Markdown format:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 31: Giving & Receiving – あげる・もらう・くれる
+
+> **📌 Focus:** How to express giving, receiving, and polite exchange of actions
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+
+---
+
+### 🔹 あげる – *to give (I give to others)*
+
+| Grammar | Usage Pattern                            | Meaning           | অর্থ (বাংলা)      |
+| ------- | ---------------------------------------- | ----------------- | ----------------- |
+| あげる     | \[giver] は \[receiver] に \[object] を あげる | to give to others | অন্যকে কিছু দেওয়া |
+
+**📝 Example:** 私は友達に花をあげました。
+**Romaji:** Watashi wa tomodachi ni hana o agemashita.
+**Meaning:** I gave flowers to my friend. → আমি বন্ধুকে ফুল দিয়েছি।
+
+---
+
+### 🔹 もらう – *to receive (I receive from others)*
+
+| Grammar | Usage Pattern                               | Meaning                | অর্থ (বাংলা)          |
+| ------- | ------------------------------------------- | ---------------------- | --------------------- |
+| もらう     | \[receiver] は \[giver] に／から \[object] を もらう | to receive from others | অন্যের কাছ থেকে পাওয়া |
+
+**📝 Example:** 私は先生からプレゼントをもらいました。
+**Romaji:** Watashi wa sensei kara purezento o moraimashita.
+**Meaning:** I received a present from the teacher. → আমি স্যারের কাছ থেকে একটি উপহার পেয়েছি।
+
+---
+
+### 🔹 くれる – *to give (someone gives to me or my in-group)*
+
+| Grammar | Usage Pattern                               | Meaning       | অর্থ (বাংলা)                   |
+| ------- | ------------------------------------------- | ------------- | ------------------------------ |
+| くれる     | \[giver] は \[me/my group] に \[object] を くれる | to give to me | আমাকে বা আমার দলের কাউকে দেওয়া |
+
+**📝 Example:** 友達は私にチョコレートをくれました。
+**Romaji:** Tomodachi wa watashi ni chokoreeto o kuremashita.
+**Meaning:** My friend gave me chocolate. → আমার বন্ধু আমাকে চকোলেট দিয়েছে।
+
+---
+
+### ⚠️ Notes on Usage:
+
+* Use **あげる** when **you** give to **others**
+* Use **もらう** when **you** receive from **others**
+* Use **くれる** when **others** give **to you**
+
+---
+
+✅ **Section 31 Completed**
+Say **"Next Section 32 please"** to continue with: **Nouns that modify other nouns (Noun の Noun)**.
+Here’s **📘 Section 32: Noun Modification with の (Noun の Noun)** in stylish Markdown format:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 32: Noun Modification with の (Noun の Noun)
+
+> **📌 Focus:** Learn how to link two nouns using の to describe ownership or category
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+
+---
+
+### 🔹 Noun の Noun – *"X of Y", "Y's X"*
+
+| Grammar | Usage Pattern     | Meaning                        | অর্থ (বাংলা) |
+| ------- | ----------------- | ------------------------------ | ------------ |
+| の       | Noun1 + の + Noun2 | Noun2 of Noun1 / Noun1's Noun2 | ...এর ...    |
+
+This structure lets **one noun describe or possess another**.
+
+---
+
+### 🧠 Use Cases
+
+1. **Possession**
+
+   * **Example:** 私の本 → *My book* → আমার বই
+
+2. **Belonging**
+
+   * **Example:** 学校の先生 → *Teacher of the school* → স্কুলের শিক্ষক
+
+3. **Category or Type**
+
+   * **Example:** 日本の映画 → *Japanese movie* → জাপানি সিনেমা
+
+4. **Material**
+
+   * **Example:** 木の机 → *Wooden desk* → কাঠের ডেস্ক
+
+---
+
+### 📝 Sentence Examples
+
+* **これは私のかばんです。**
+  *Kore wa watashi no kaban desu.*
+  → This is my bag. → এটা আমার ব্যাগ।
+
+* **彼は会社の人です。**
+  *Kare wa kaisha no hito desu.*
+  → He is a person from the company. → সে কোম্পানির একজন ব্যক্তি।
+
+* **兄の車は大きいです。**
+  *Ani no kuruma wa ookii desu.*
+  → My older brother's car is big. → আমার বড় ভাইয়ের গাড়ি বড়।
+
+---
+
+✅ **Section 32 Completed**
+Say **"Next Section 33 please"** to continue with: **“Noun + があります／います” for existence and location**.
+Here's your next grammar installment:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 33: あります・います (Existence of Things & People)
+
+> **📌 Focus:** Understand how to express the existence and location of **objects** and **living beings** using あります・います
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+
+---
+
+### 🔹 あります – for **non-living things**
+
+| Grammar | Usage Pattern                | Meaning              | বাংলা অর্থ          |
+| ------- | ---------------------------- | -------------------- | ------------------- |
+| あります    | Noun (non-living) + が + あります | There is / It exists | আছে (জিনিস / বস্তু) |
+
+**📝 Example:** いすがあります。
+**Romaji:** Isu ga arimasu.
+**Meaning:** There is a chair. → একটি চেয়ার আছে।
+
+---
+
+### 🔹 います – for **people & animals**
+
+| Grammar | Usage Pattern           | Meaning               | বাংলা অর্থ            |
+| ------- | ----------------------- | --------------------- | --------------------- |
+| います     | Noun (living) + が + います | There is / is present | আছে (মানুষ বা প্রাণী) |
+
+**📝 Example:** 子供がいます。
+**Romaji:** Kodomo ga imasu.
+**Meaning:** There is a child. → একটি শিশু আছে।
+
+---
+
+### 🔹 どこにありますか／いますか？ – Asking location
+
+* **とけいはどこにありますか？**
+  *Tokei wa doko ni arimasu ka?*
+  → Where is the clock? → ঘড়িটি কোথায়?
+
+* **お父さんはどこにいますか？**
+  *Otousan wa doko ni imasu ka?*
+  → Where is (your) father? → বাবা কোথায়?
+
+---
+
+### 🔹 Use with location markers (に)
+
+| Structure                      | Meaning                    | বাংলা          |
+| ------------------------------ | -------------------------- | -------------- |
+| \[Place] に \[Thing] が あります／います | Something is at some place | কোথাও কিছু আছে |
+
+**📝 Example:** 学校に先生がいます。
+**Romaji:** Gakkou ni sensei ga imasu.
+**Meaning:** There is a teacher at school. → স্কুলে একজন শিক্ষক আছেন।
+
+---
+
+✅ **Section 33 Completed**
+Say **"Next Section 34 please"** to continue with:
+**“〜たいです” – Expressing desire to do something** 🙋‍♂️✨
+Absolutely! Here's your next N5 grammar installment:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 34: ～たいです (Expressing Desire)
+
+> **📌 Focus:** Learn how to say “I want to do something” using the **～たいです** form
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+
+---
+
+### 🔹 ～たいです – Want to do something
+
+| Grammar | Usage Pattern    | Meaning              | বাংলা অর্থ    |
+| ------- | ---------------- | -------------------- | ------------- |
+| ～たいです   | Verb stem + たいです | want to do something | কিছু করতে চাই |
+
+**📝 Example:** 日本へ行きたいです。
+**Romaji:** Nihon e ikitai desu.
+**Meaning:** I want to go to Japan. → আমি জাপানে যেতে চাই।
+
+---
+
+### 🔹 ～たくないです – Don’t want to do
+
+| Grammar | Usage Pattern      | Meaning          | বাংলা অর্থ       |
+| ------- | ------------------ | ---------------- | ---------------- |
+| ～たくないです | Verb stem + たくないです | don’t want to do | কিছু করতে চাই না |
+
+**📝 Example:** 勉強したくないです。
+**Romaji:** Benkyou shitakunai desu.
+**Meaning:** I don’t want to study. → আমি পড়াশোনা করতে চাই না।
+
+---
+
+### 🔹 ～たかったです / ～たくなかったです – Past form
+
+| Form     | Pattern              | Meaning           | বাংলা           |
+| -------- | -------------------- | ----------------- | --------------- |
+| たかったです   | Verb stem + たかったです   | wanted to do      | করতে চেয়েছিলাম |
+| たくなかったです | Verb stem + たくなかったです | didn’t want to do | করতে চাইনি      |
+
+**📝 Example:** 昨日映画を見たかったです。
+**Romaji:** Kinou eiga o mitakatta desu.
+**Meaning:** I wanted to watch a movie yesterday. → গতকাল আমি সিনেমা দেখতে চেয়েছিলাম।
+
+---
+
+✅ **Section 34 Completed**
+
+Say **"Next Section 35 please"** to continue with:
+**～たり～たりする – Listing multiple actions (e.g., eating and sleeping)** 🍽️😴📘
+Absolutely! Here's the next grammar point from the JLPT N5 series:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 35: ～たり～たりする (Listing Actions)
+
+> **📌 Focus:** Learn to list **multiple representative actions** (doing A and B and so on)
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+
+---
+
+### 🔹 ～たり～たりする – Doing things like A and B
+
+| Grammar  | Usage Pattern                              | Meaning                   | বাংলা অর্থ             |
+| -------- | ------------------------------------------ | ------------------------- | ---------------------- |
+| ～たり～たりする | Verb (た-form) + り + Verb (た-form) + り + する | to do things like A and B | A এবং B এর মতো কাজ করা |
+
+**📝 Example:** 日曜日は映画を見たり、本を読んだりします。
+**Romaji:** Nichiyoubi wa eiga o mitari, hon o yondari shimasu.
+**Meaning:** On Sundays, I do things like watch movies and read books.
+→ রবিবারে আমি সিনেমা দেখা, বই পড়া ইত্যাদি করি।
+
+---
+
+### 🔹 Past tense: ～たり～たりしました
+
+| Grammar    | Usage Pattern                       | Meaning                 | বাংলা অর্থ                |
+| ---------- | ----------------------------------- | ----------------------- | ------------------------- |
+| ～たり～たりしました | Verb (た-form) + り + Verb + り + しました | did things like A and B | A ও B এর মতো কাজ করেছিলাম |
+
+**📝 Example:** 昨日音楽を聞いたり、友達と話したりしました。
+**Romaji:** Kinou ongaku o kiitari, tomodachi to hanashitari shimashita.
+**Meaning:** Yesterday, I listened to music and talked with my friend.
+→ গতকাল আমি গান শুনেছি, বন্ধুদের সাথে কথা বলেছি।
+
+---
+
+✅ **Section 35 Completed**
+
+Say **"Next Section 36 please"** to continue with:
+**～ながら – Doing two actions at once (e.g., listening while studying)** 🎧📖
+Absolutely! Here's the next part:
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 36: ～ながら (Doing Two Actions at Once)
+
+> **📌 Focus:** Expressing simultaneous actions
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+
+---
+
+### 🔹 ～ながら – While Doing...
+
+| Grammar              | Usage Pattern       | Meaning                                  | বাংলা অর্থ |
+| -------------------- | ------------------- | ---------------------------------------- | ---------- |
+| Verb (ます stem) + ながら | while doing \[Verb] | একসাথে দুইটা কাজ করা / \[কাজ] করতে করতেই |            |
+
+**📝 Example:** 音楽を聞きながら勉強します。
+**Romaji:** Ongaku o kikinagara benkyou shimasu.
+**Meaning:** I study while listening to music.
+→ আমি গান শুনতে শুনতে পড়াশোনা করি।
+
+---
+
+### 🔸 Notes:
+
+* The **main verb** usually comes at the end.
+* The verb with **ながら** is something done **simultaneously** with the main action.
+* Often used in daily conversation to describe multitasking.
+
+---
+
+✅ **Section 36 Completed**
+
+Say **"Next Section 37 please"** to proceed to:
+**～たことがある – Expressing past experience** 🗺️⏳
+Certainly!
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 37: ～たことがある (Past Experience)
+
+> **📌 Focus:** Talking about something you have done before
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+
+---
+
+### 🔹 ～たことがある – “Have done something before”
+
+| Grammar               | Usage Pattern                 | Meaning                     | বাংলা অর্থ |
+| --------------------- | ----------------------------- | --------------------------- | ---------- |
+| Verb (た-form) + ことがある | have done \[something] before | আগে কখনো \[কিছু] করা হয়েছে |            |
+
+**📝 Example:** 日本に行ったことがあります。
+**Romaji:** Nihon ni itta koto ga arimasu.
+**Meaning:** I have been to Japan.
+→ আমি আগে জাপানে গিয়েছি।
+
+---
+
+### 🔸 Notes:
+
+* This form shows **past experience**, not a one-time completed action.
+* It doesn't indicate when — only that it happened **at least once in the past**.
+* Negative: `～たことがありません` → Never done something.
+
+**📝 Example (Negative):** 寿司を食べたことがありません。
+**Romaji:** Sushi o tabeta koto ga arimasen.
+**Meaning:** I have never eaten sushi.
+→ আমি কখনো সুশি খাইনি।
+
+---
+
+✅ **Section 37 Completed**
+
+Say **"Next Section 38 please"** to continue to:
+**～てから – After doing something...** ⏰📌
+Here you go!
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 38: ～てから (After Doing Something)
+
+> **📌 Focus:** Expressing actions that happen **after** another
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+
+---
+
+### 🔹 ～てから – “After doing…”
+
+| Grammar            | Usage Pattern       | Meaning           | বাংলা অর্থ |
+| ------------------ | ------------------- | ----------------- | ---------- |
+| Verb (て-form) + から | after doing \[Verb] | \[কিছু করা]র পরেই |            |
+
+**📝 Example:** ご飯を食べてから勉強します。
+**Romaji:** Gohan o tabete kara benkyou shimasu.
+**Meaning:** I will study after eating.
+→ খাওয়ার পরে আমি পড়াশোনা করব।
+
+---
+
+### 🔸 Notes:
+
+* This form emphasizes **sequence**: action A happens **first**, then action B.
+* Commonly used in daily schedules or instructions.
+* Can be used in past or future tense.
+
+**📝 Example (Past):** 学校に行ってから図書館に行きました。
+**Romaji:** Gakkou ni itte kara toshokan ni ikimashita.
+**Meaning:** I went to the library after going to school.
+→ স্কুলে যাওয়ার পরে আমি লাইব্রেরিতে গিয়েছিলাম।
+
+---
+
+✅ **Section 38 Completed**
+
+Say **"Next Section 39 please"** to move on to:
+**～ないでください – Please don’t do...** 🚫🙏
+Here's the next one!
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 39: ～ないでください (Please Don’t...)
+
+> **📌 Focus:** Politely telling someone **not to do something**
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+
+---
+
+### 🔹 ～ないでください – “Please don’t…”
+
+| Grammar                | Usage Pattern           | Meaning                   | বাংলা অর্থ |
+| ---------------------- | ----------------------- | ------------------------- | ---------- |
+| Verb (ない-form) + でください | Please don’t do \[Verb] | দয়া করে \[কিছু] করবেন না |            |
+
+**📝 Example:** ここで写真を撮らないでください。
+**Romaji:** Koko de shashin o toranaide kudasai.
+**Meaning:** Please don’t take pictures here.
+→ এখানে দয়া করে ছবি তুলবেন না।
+
+---
+
+### 🔸 Notes:
+
+* Negative command form.
+* Use for **rules**, **politeness**, or **requests**.
+* Often seen on **signs**, **instructions**, or **formal speech**.
+
+**📝 Example:** ドアを開けないでください。
+**Romaji:** Doa o akenaide kudasai.
+**Meaning:** Please don’t open the door.
+→ দয়া করে দরজা খুলবেন না।
+
+---
+
+✅ **Section 39 Completed**
+
+Say **"Next Section 40 please"** to continue with:
+**～なければなりません – Must do / Have to do something** ✔️💼
+Here you go!
+
+---
+
+## 📘 JLPT N5 Grammar Guide – Section 40: ～なければなりません (Must / Have to)
+
+> **📌 Focus:** Saying you **must** or **have to** do something
+> **🔤 Language:** Japanese with **English + বাংলা** explanation
+
+---
+
+### 🔹 ～なければなりません – “Must do”
+
+| Grammar                             | Usage Pattern   | Meaning                     | বাংলা অর্থ |
+| ----------------------------------- | --------------- | --------------------------- | ---------- |
+| Verb (ない-form without い) + ければなりません | Must do \[Verb] | \[কিছু] করতে হবে / করা উচিত |            |
+
+**📝 Example:** 毎日日本語を勉強しなければなりません。
+**Romaji:** Mainichi nihongo o benkyou shinakereba narimasen.
+**Meaning:** I must study Japanese every day.
+→ আমাকে প্রতিদিন জাপানি পড়তে হবে।
+
+---
+
+### 🔸 Notes:
+
+* Formal structure for obligation.
+* Often used in school, work, or polite conversation.
+* Conjugation hint:
+  勉強する → 勉強しない → しなければなりません
+
+**📝 Example:** 早く寝なければなりません。
+**Romaji:** Hayaku ne nakereba narimasen.
+**Meaning:** I must go to bed early.
+→ আমাকে তাড়াতাড়ি ঘুমাতে হবে।
+
+---
+
+✅ **Section 40 Completed**
+
+Say **"Next Section 41 please"** to learn about:
+**～なくてもいいです – Don’t have to / Not necessary** 🧘‍♂️📘
