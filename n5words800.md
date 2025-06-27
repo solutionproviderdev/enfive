@@ -968,3 +968,155 @@
 | 959 | 本        | hon (হোন)                      | book                    | বই                            |
 | 960 | 雑誌       | zasshi (জাশ্চি)                | magazine                | ম্যাগাজিন                     |
 |     |          |                                |                         |                               |
+
+
+| #    | Japanese | Pronunciation (Romaji + বাংলা) | English Meaning       | Bangla Meaning         |
+---- | -------- | ------------------------------ | --------------------- | ---------------------- |
+| 961  | ノート      | nooto (নোটো)                   | notebook              | খাতা                   |
+| 962  | 教科書      | kyoukasho (কিয়োকাশো)           | textbook              | পাঠ্যবই                |
+| 963  | 辞書       | jisho (জিশো)                   | dictionary            | অভিধান                 |
+| 964  | 鉛筆       | enpitsu (এনপিৎসু)              | pencil                | পেন্সিল                |
+| 965  | ペン       | pen (পেন)                      | pen                   | কলম                    |
+| 966  | 消しゴム     | keshigomu (কেশিগোমু)           | eraser                | রাবার                  |
+| 967  | 定規       | jougi (জৌউগি)                  | ruler                 | স্কেল                  |
+| 968  | 机        | tsukue (ৎসুকুয়ে)               | desk                  | ডেস্ক                  |
+| 969  | 椅子       | isu (ইসু)                      | chair                 | চেয়ার                 |
+| 970  | 黒板       | kokuban (কোকুবান)              | blackboard            | ব্ল্যাকবোর্ড           |
+| 971  | ホワイトボード  | howaito-boodo (হোয়াইট বোর্ড)   | whiteboard            | হোয়াইটবোর্ড            |
+| 972  | 教室       | kyoushitsu (কিয়ৌশিতসু)         | classroom             | শ্রেণীকক্ষ             |
+| 973  | 学校       | gakkou (গাক্কৌ)                | school                | স্কুল                  |
+| 974  | 小学校      | shougakkou (শৌগাক্কৌ)          | elementary school     | প্রাথমিক বিদ্যালয়      |
+| 975  | 中学校      | chuugakkou (চুগাক্কৌ)          | middle school         | মাধ্যমিক বিদ্যালয়      |
+| 976  | 高校       | koukou (কৌকৌ)                  | high school           | উচ্চ মাধ্যমিক বিদ্যালয় |
+| 977  | 大学       | daigaku (দাইগাকু)              | university            | বিশ্ববিদ্যালয়          |
+| 978  | 大学院      | daigakuin (দাইগাকুইন)          | graduate school       | স্নাতকোত্তর স্কুল      |
+| 979  | 学生       | gakusei (গাকুসেই)              | student               | ছাত্র                  |
+| 980  | 小学生      | shougakusei (শৌগাকুসেই)        | elementary student    | প্রাথমিক ছাত্র         |
+| 981  | 中学生      | chuugakusei (চুগাকুসেই)        | middle school student | মাধ্যমিক ছাত্র         |
+| 982  | 高校生      | koukousei (কৌকৌসেই)            | high school student   | উচ্চ মাধ্যমিক ছাত্র    |
+| 983  | 大学生      | daigakusei (দাইগাকুসেই)        | university student    | বিশ্ববিদ্যালয়ের ছাত্র  |
+| 984  | 先生       | sensei (সেন্সেই)               | teacher               | শিক্ষক                 |
+| 985  | 教授       | kyouju (কিয়ৌজু)                | professor             | অধ্যাপক                |
+| 986  | 校長       | kouchou (কৌচৌ)                 | principal             | প্রধান শিক্ষক          |
+| 987  | 先輩       | senpai (সেনপাই)                | senior                | সিনিয়র/ বড় ভাই/ আপু    |
+| 988  | 後輩       | kouhai (কৌহাই)                 | junior                | জুনিয়র                 |
+| 989  | 同級生      | doukyuusei (দৌকিউসেই)          | classmate             | সহপাঠী                 |
+| 990  | 留学生      | ryuugakusei (র্যুউগাকুসেই)     | foreign student       | বিদেশি ছাত্র           |
+| 991  | 授業       | jugyou (জুগিয়ৌ)                | class, lesson         | ক্লাস, পাঠ             |
+| 992  | 宿題       | shukudai (শুকুদাই)             | homework              | হোমওয়ার্ক              |
+| 993  | 試験       | shiken (শিকেন)                 | exam                  | পরীক্ষা                |
+| 994  | テスト      | tesuto (টেস্টো)                | test                  | টেস্ট                  |
+| 995  | 成績       | seiseki (সেইসেকি)              | grades, result        | রেজাল্ট, ফলাফল         |
+| 996  | 点数       | tensuu (তেনসু)                 | score                 | নম্বর                  |
+| 997  | 合格       | goukaku (গৌকাকু)               | pass, success         | পাস                    |
+| 998  | 不合格      | fugoukaku (ফুগৌকাকু)           | fail                  | ফেল                    |
+| 999  | 入学       | nyuugaku (নিউগাকু)             | school entrance       | ভর্তি                  |
+| 1000 | 卒業       | sotsugyou (সোত্সুগিয়ৌ)         | graduation            | স্নাতক/পাস             |
+| 1001 | 部活       | bukatsu (বুকাত্সু)             | club activity         | ক্লাব অ্যাক্টিভিটি     |
+| 1002 | サークル     | saakuru (সার্কুল)              | club, society         | ক্লাব                  |
+| 1003 | 運動       | undou (উন্দৌ)                  | exercise, sports      | ব্যায়াম, খেলা          |
+| 1004 | 体育       | taiiku (তাইইকু)                | physical education    | শারীরিক শিক্ষা         |
+| 1005 | 運動会      | undoukai (উন্দৌকাই)            | sports day            | ক্রীড়া দিবস            |
+| 1006 | 試合       | shiai (শিয়াই)                  | match, game           | খেলা                   |
+| 1007 | チーム      | chiimu (চীমু)                  | team                  | দল                     |
+| 1008 | 選手       | senshu (সেনশু)                 | player, athlete       | খেলোয়াড়                |
+| 1009 | コーチ      | koochi (কোচি)                  | coach                 | কোচ                    |
+| 1010 | 応援       | ouen (ওউএন)                    | cheer, support        | সমর্থন, উৎসাহ          |
+| 1011 | 勝つ       | katsu (কাত্সু)                 | to win                | জয়লাভ করা              |
+| 1012 | 負ける      | makeru (মাকেড়ু)                | to lose               | হারা                   |
+| 1013 | 引き分け     | hikiwake (হিকিওয়াকে)           | draw (tie)            | ড্র                    |
+| 1014 | 遊ぶ       | asobu (আসোবু)                  | to play               | খেলা করা               |
+| 1015 | 遊園地      | yuuenchi (ইউয়েনচি)             | amusement park        | বিনোদন পার্ক           |
+| 1016 | 動物       | doubutsu (দৌবুত্সু)            | animal                | প্রাণী                 |
+| 1017 | 犬        | inu (ইনু)                      | dog                   | কুকুর                  |
+| 1018 | 猫        | neko (নেকো)                    | cat                   | বিড়াল                  |
+| 1019 | 鳥        | tori (তোরি)                    | bird                  | পাখি                   |
+| 1020 | 馬        | uma (উমা)                      | horse                 | ঘোড়া                   |
+| 1021 | 牛        | ushi (উশি)                     | cow                   | গরু                    |
+| 1022 | 羊        | hitsuji (হিত্সুজি)             | sheep                 | ভেড়া                   |
+| 1023 | 豚        | buta (বুতা)                    | pig                   | শুকর                   |
+| 1024 | 魚        | sakana (সাকানা)                | fish                  | মাছ                    |
+| 1025 | 虫        | mushi (মুশি)                   | insect                | পোকা                   |
+| 1026 | 花        | hana (হানা)                    | flower                | ফুল                    |
+| 1027 | 木        | ki (কি)                        | tree                  | গাছ                    |
+| 1028 | 草        | kusa (কুসা)                    | grass                 | ঘাস                    |
+| 1029 | 葉        | ha (হা)                        | leaf                  | পাতা                   |
+| 1030 | 枝        | eda (এদা)                      | branch                | ডাল                    |
+| 1031 | 根        | ne (নে)                        | root                  | শিকড়                   |
+| 1032 | 実        | mi (মি)                        | fruit (of plant)      | ফল (গাছের)             |
+| 1033 | 種        | tane (তানে)                    | seed                  | বীজ                    |
+| 1034 | 石        | ishi (ইশি)                     | stone                 | পাথর                   |
+| 1035 | 砂        | suna (সুনা)                    | sand                  | বালি                   |
+| 1036 | 土        | tsuchi (ত্সুচি)                | soil                  | মাটি                   |
+| 1037 | 山        | yama (ইয়ামা)                   | mountain              | পাহাড়                  |
+| 1038 | 谷        | tani (তানি)                    | valley                | উপত্যকা                |
+| 1039 | 森        | mori (মরি)                     | forest                | বন                     |
+| 1040 | 林        | hayashi (হায়াশি)               | woods                 | ঝোপ, বনের অংশ          |
+| 1041 | 川        | kawa (কাওয়া)                   | river                 | নদী                    |
+| 1042 | 湖        | mizuumi (মিজু-উমি)             | lake                  | হ্রদ                   |
+| 1043 | 海        | umi (উমি)                      | sea                   | সমুদ্র                 |
+| 1044 | 島        | shima (শিমা)                   | island                | দ্বীপ                  |
+| 1045 | 空        | sora (সোরা)                    | sky                   | আকাশ                   |
+| 1046 | 雲        | kumo (কুমো)                    | cloud                 | মেঘ                    |
+| 1047 | 星        | hoshi (হোশি)                   | star                  | তারা                   |
+| 1048 | 月        | tsuki (ৎসুকি)                  | moon                  | চাঁদ                   |
+| 1049 | 太陽       | taiyou (তাইয়োউ)                | sun                   | সূর্য                  |
+| 1050 | 光        | hikari (হিকারি)                | light                 | আলো                    |
+| 1051 | 影        | kage (কাগে)                    | shadow                | ছায়া                   |
+| 1052 | 空気       | kuuki (কু-উকি)                 | air                   | বাতাস                  |
+| 1053 | 水        | mizu (মিজু)                    | water                 | পানি                   |
+| 1054 | 火        | hi (হি)                        | fire                  | আগুন                   |
+| 1055 | 氷        | koori (কোরি)                   | ice                   | বরফ                    |
+| 1056 | 雨        | ame (আমে)                      | rain                  | বৃষ্টি                 |
+| 1057 | 雪        | yuki (ইউকি)                    | snow                  | তুষার                  |
+| 1058 | 風        | kaze (কাজে)                    | wind                  | বাতাস                  |
+| 1059 | 雷        | kaminari (কামিনারি)            | thunder               | বজ্র                   |
+| 1060 | 波        | nami (নামি)                    | wave                  | ঢেউ                    |
+| 1061 | 泳ぐ       | oyogu (ওয়েওগু)                | to swim               | সাঁতার কাটা            |
+| 1062 | 沈む       | shizumu (শিজুমু)               | to sink               | ডুবে যাওয়া             |
+| 1063 | 流れる      | nagareru (নাগারেড়ু)            | to flow               | প্রবাহিত হওয়া          |
+| 1064 | 落ちる      | ochiru (ওচিরু)                 | to fall               | পড়া                    |
+| 1065 | 登る       | noboru (নোবোরু)                | to climb              | উঠা                    |
+| 1066 | 飛ぶ       | tobu (তোবু)                    | to fly, jump          | উড়া, লাফানো            |
+| 1067 | 跳ぶ       | tobu (তোবু)                    | to leap               | লাফ দেওয়া              |
+| 1068 | 回る       | mawaru (মাওয়ারু)               | to turn, spin         | ঘুরা                   |
+| 1069 | 曲がる      | magaru (মাগারু)                | to bend, turn         | বাঁকানো, মোড়           |
+| 1070 | 止まる      | tomaru (তোমারু)                | to stop               | থেমে যাওয়া             |
+| 1071 | 動く       | ugoku (উগোকু)                  | to move               | নড়া                    |
+| 1072 | 速い       | hayai (হায়াই)                  | fast                  | দ্রুত                  |
+| 1073 | 遅い       | osoi (ওসোই)                    | slow                  | ধীর                    |
+| 1074 | 強い       | tsuyoi (ৎসুয়োই)                | strong                | শক্তিশালী              |
+| 1075 | 弱い       | yowai (ইয়োয়াই)                 | weak                  | দুর্বল                 |
+| 1076 | 長い       | nagai (নাগাই)                  | long                  | লম্বা                  |
+| 1077 | 短い       | mijikai (মিজিকাই)              | short                 | ছোট                    |
+| 1078 | 広い       | hiroi (হিরোই)                  | wide, spacious        | প্রশস্ত                |
+| 1079 | 狭い       | semai (সেমাই)                  | narrow                | সরু                    |
+| 1080 | 深い       | fukai (ফুকাই)                  | deep                  | গভীর                   |
+| 1081 | 浅い       | asai (আসাই)                    | shallow         | অগভীর          |
+| 1082 | 高い       | takai (তাকাই)                  | high, tall      | উঁচু           |
+| 1083 | 低い       | hikui (হিকুই)                  | low, short      | নিচু           |
+| 1084 | 太い       | futoi (ফুতোই)                  | thick           | মোটা           |
+| 1085 | 細い       | hosoi (হোসোই)                  | thin            | চিকন           |
+| 1086 | 丸い       | marui (মারুই)                  | round           | গোল            |
+| 1087 | 四角い      | shikakui (শিকাকুই)             | square          | চৌকোণা         |
+| 1088 | 大きい      | ookii (ওওকিই)                  | big             | বড়             |
+| 1089 | 小さい      | chiisai (চিইসাই)               | small           | ছোট            |
+| 1090 | 重い       | omoi (ওমই)                     | heavy           | ভারী           |
+| 1091 | 軽い       | karui (কারুই)                  | light (weight)  | হালকা          |
+| 1092 | 熱い       | atsui (আতসুই)                  | hot (object)    | গরম (বস্তু)    |
+| 1093 | 冷たい      | tsumetai (ৎসুমেতাই)            | cold (object)   | ঠাণ্ডা (বস্তু) |
+| 1094 | 暖かい      | atatakai (আতাতাকাই)            | warm            | উষ্ণ           |
+| 1095 | 涼しい      | suzushii (সুজুশিই)             | cool            | ঠাণ্ডা         |
+| 1096 | 甘い       | amai (আমাই)                    | sweet           | মিষ্টি         |
+| 1097 | 辛い       | karai (কারাই)                  | spicy, hot      | ঝাল            |
+| 1098 | 苦い       | nigai (নিগাই)                  | bitter          | তিতা           |
+| 1099 | 塩辛い      | shiokarai (শিওকারাই)           | salty           | নোনতা          |
+| 1100 | 酸っぱい     | suppai (সুপ্পাই)               | sour            | টক             |
+| 1101 | 美味しい     | oishii (ওইশিই)                 | delicious       | সুস্বাদু       |
+| 1102 | まずい      | mazui (মাজুই)                  | bad-tasting     | বিস্বাদ        |
+| 1103 | 新しい      | atarashii (আতারাশিই)           | new             | নতুন           |
+| 1104 | 古い       | furui (ফুরুই)                  | old             | পুরনো          |
+| 1105 | 良い       | ii (ঈই)                        | good            | ভালো           |
+| 1106 | 悪い       | warui (ওয়ারুই)                 | bad             | খারাপ          |
+| 1107 | 楽しい      | tanoshii (তানোশিই)             | enjoyable, fun  | আনন্দদায়ক      |
+| 1108 | 嬉しい      | ureshii                        |                 |                |
