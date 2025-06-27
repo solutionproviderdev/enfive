@@ -1119,4 +1119,405 @@
 | 1105 | 良い       | ii (ঈই)                        | good            | ভালো           |
 | 1106 | 悪い       | warui (ওয়ারুই)                 | bad             | খারাপ          |
 | 1107 | 楽しい      | tanoshii (তানোশিই)             | enjoyable, fun  | আনন্দদায়ক      |
-                      |                 |                |
+ 
+### JLPT N4 & Everyday Japanese Vocabulary (#1108–#1500)
+
+| #    | Japanese | Pronunciation (Romaji + বাংলা) | English Meaning            | Bangla Meaning               |
+| ---- | -------- | ------------------------------ | -------------------------- | ---------------------------- |
+| 1108 | 残る       | nokoru (নোকোরু)                | to remain, to be left      | বাকি থাকা                    |
+| 1109 | 残念       | zannen (জাননেন)                | regret, disappointing      | দুঃখজনক, আফসোস               |
+| 1110 | 眠る       | nemuru (নেমুরু)                | to sleep                   | ঘুমানো                       |
+| 1111 | 熱心       | nesshin (নেসশিন)               | eager, enthusiastic        | আগ্রহী, উৎসাহী               |
+| 1112 | 苦しい      | kurushii (কুরুশিই)             | painful, difficult         | কষ্টকর, যন্ত্রণাদায়ক         |
+| 1113 | 苦労       | kurou (কুরোউ)                  | hardship, trouble          | কষ্ট, কষ্টকর পরিস্থিতি       |
+| 1114 | 願う       | negau (নেগাউ)                  | to wish, to hope           | আশা করা, প্রার্থনা করা       |
+| 1115 | 眠い       | nemui (নেমুই)                  | sleepy                     | ঘুম পাচ্ছে এমন               |
+| 1116 | 逃げる      | nigeru (নিজেরু)                | to escape, to run away     | পালানো                       |
+| 1117 | 逃す       | nogasu (নোগাসু)                | to miss (opportunity)      | হাতছাড়া করা                  |
+| 1118 | 苦手       | nigate (নিগাতে)                | weak at, not good at       | দুর্বল, অপটু                 |
+| 1119 | 抜く       | nuku (নুকু)                    | to pull out, extract       | টেনে বের করা                 |
+| 1120 | 抜ける      | nukeru (নুকেরু)                | to come out, fall out      | পড়ে যাওয়া, বেরিয়ে যাওয়া      |
+| 1121 | 盗む       | nusumu (নুসুমু)                | to steal                   | চুরি করা                     |
+| 1122 | 塗る       | nuru (নুরু)                    | to paint, to spread        | লাগানো, আঁকা                 |
+| 1123 | 乗せる      | noseru (নোসেরু)                | to put on, to give a ride  | উঠানো, ওঠানো                 |
+| 1124 | 乗り換える    | norikaeru (নোরিকায়েরু)         | to transfer (trains)       | বদলানো, ট্রেন বদলানো         |
+| 1125 | 乗る       | noru (নোরু)                    | to get on, to ride         | উঠা                          |
+| 1126 | 登る       | noboru (নোবোরু)                | to climb                   | উঠা (উঁচুতে)                 |
+| 1127 | 残す       | nokosu (নোকোসু)                | to leave behind            | ফেলে যাওয়া, বাকি রাখা        |
+| 1128 | 覗く       | nozoku (নোজোকু)                | to peek, look into         | উঁকি দেওয়া                   |
+| 1129 | 伸ばす      | nobasu (নোবাসু)                | to stretch, extend         | টেনে লম্বা করা               |
+| 1130 | 伸びる      | nobiru (নোবিরু)                | to stretch, grow           | বেড়ে যাওয়া                   |
+| 1131 | 望む       | nozomu (নোজোমু)                | to hope, wish              | প্রত্যাশা করা                |
+| 1132 | 登場       | toujou (তোউজৌ)                 | appearance (on stage)      | উপস্থিতি                     |
+| 1133 | 能力       | nouryoku (নৌরিয়োকু)            | ability, capability        | দক্ষতা                       |
+| 1134 | 配る       | kubaru (কুবারু)                | to distribute              | বিতরণ করা                    |
+| 1135 | 博士       | hakase (হাকাসে)                | doctor (PhD), expert       | ডক্টরেট, বিশেষজ্ঞ            |
+| 1136 | 箱        | hako (হাকো)                    | box                        | বাক্স                        |
+| 1137 | 発表       | happyou (হাপ্পিও)              | presentation, announcement | উপস্থাপনা                    |
+| 1138 | 発見       | hakken (হাক্কেন)               | discovery                  | আবিষ্কার                     |
+| 1139 | 発展       | hatten (হাত্তেন)               | development, growth        | বিকাশ                        |
+| 1140 | 半分       | hanbun (হানবুন)                | half                       | অর্ধেক                       |
+| 1141 | 販売       | hanbai (হানবাই)                | sales, selling             | বিক্রি                       |
+| 1142 | 反対       | hantai (হানতাই)                | opposition                 | বিরোধিতা                     |
+| 1143 | 判断       | handan (হানদান)                | judgement                  | সিদ্ধান্ত                    |
+| 1144 | 犯人       | hannin (হান্নিন)               | criminal                   | অপরাধী                       |
+| 1145 | 非常       | hijou (হিজোউ)                  | emergency, unusual         | জরুরি                        |
+| 1146 | 必要       | hitsuyou (হিৎসুও)              | necessary                  | প্রয়োজনীয়                    |
+| 1147 | 表        | hyou (হ্যোউ)                   | table (chart), surface     | তালিকা, মুখাবরণ              |
+| 1148 | 病院       | byouin (ব্যৌইন)                | hospital                   | হাসপাতাল                     |
+| 1149 | 費用       | hiyou (হিয়োউ)                  | expense, cost              | খরচ                          |
+| 1150 | 品物       | shinamono (শিনামোনো)           | goods, article             | দ্রব্য                       |
+| 1151 | 部分       | bubun (বুবুন)                  | part, section              | অংশ                          |
+| 1152 | 文化       | bunka (বুনকা)                  | culture                    | সংস্কৃতি                     |
+| 1153 | 文章       | bunshou (বুনশৌ)                | sentence, writing          | বাক্য, রচনা                  |
+| 1154 | 分野       | bunya (বুনইয়া)                 | field, area                | ক্ষেত্র, এলাকা               |
+| 1155 | 変化       | henka (হেনকা)                  | change, variation          | পরিবর্তন                     |
+| 1156 | 変更       | henkou (হেঙ্কোউ)               | change, modification       | পরিবর্তন                     |
+| 1157 | 返事       | henji (হেনজি)                  | reply, response            | উত্তর                        |
+| 1158 | 返信       | henshin (হেনশিন)               | reply (email/message)      | মেসেজ/ইমেইল রিপ্লাই          |
+| 1159 | 勉強会      | benkyoukai (বেনকিওউকাই)        | study group                | স্টাডি গ্রুপ                 |
+| 1160 | 貿易       | boueki (বোওএকি)                | trade, commerce            | বাণিজ্য                      |
+| 1161 | 放送       | housou (হৌসোউ)                 | broadcast                  | সম্প্রচার                    |
+| 1162 | 法律       | houritsu (হৌরিত্সু)            | law                        | আইন                          |
+| 1163 | 方向       | houkou (হৌকৌ)                  | direction                  | দিক                          |
+| 1164 | 方法       | houhou (হৌহৌ)                  | method, way                | পদ্ধতি                       |
+| 1165 | 報告       | houkoku (হৌকোকু)               | report                     | প্রতিবেদন                    |
+| 1166 | 保障       | hoshou (হোশৌ)                  | guarantee, assurance       | নিশ্চয়তা                     |
+| 1167 | 保存       | hozon (হোজন)                   | preservation, save (file)  | সংরক্ষণ                      |
+| 1168 | 本当       | hontou (হন্তৌ)                 | truth, real                | সত্য                         |
+| 1169 | 迷う       | mayou (মায়ৌ)                   | to hesitate, get lost      | দ্বিধায় পড়া, হারিয়ে যাওয়া    |
+| 1170 | 迎える      | mukaeru (মুকায়েরু)             | to welcome, greet          | স্বাগত জানানো                |
+| 1171 | 向かう      | mukau (মুকাউ)                  | to head toward             | দিকে যাওয়া                   |
+| 1172 | 向こう      | mukou (মুকৌ)                   | over there                 | ওইদিকে                       |
+| 1173 | 無理       | muri (মুরি)                    | impossible                 | অসম্ভব                       |
+| 1174 | 目的       | mokuteki (মোকু তেকি)           | purpose, aim               | উদ্দেশ্য                     |
+| 1175 | 木曜       | mokuyou (মোকুয়ৌ)               | Thursday                   | বৃহস্পতিবার                  |
+| 1176 | 目標       | mokuhyou (মোকুহ্যৌ)            | goal, target               | লক্ষ্য                       |
+| 1177 | 申す       | mousu (মৌসু)                   | to say (humble)            | বলা (বিনয়ী)                  |
+| 1178 | 申し込む     | moushikomu (মৌশিকোমু)          | to apply for               | আবেদন করা                    |
+| 1179 | 申し訳      | moushiwake (মৌশিওয়াকে)         | excuse, apology            | অজুহাত                       |
+| 1180 | 持参       | jisan (জিসান)                  | bringing (something)       | সঙ্গে আনা                    |
+| 1181 | 持つ       | motsu (মোৎসু)                  | to hold, to have           | ধরা, রাখা                    |
+| 1182 | 戻る       | modoru (মোদোরু)                | to return                  | ফিরে আসা                     |
+| 1183 | 求める      | motomeru (মোতোমেরু)            | to seek, request           | খোঁজা, চাওয়া                 |
+| 1184 | 目的地      | mokutekichi (মোকু তেকিচি)      | destination                | গন্তব্য                      |
+| 1185 | 門        | mon (মোন)                      | gate                       | ফটক                          |
+| 1186 | 問題       | mondai (মোন্দাই)               | problem, question          | সমস্যা, প্রশ্ন               |
+| 1187 | 問う       | tou (তোউ)                      | to ask, inquire            | জানতে চাওয়া                  |
+| 1188 | 約束       | yakusoku (ইয়াকুসোকু)           | promise, appointment       | প্রতিশ্রুতি, অ্যাপয়েন্টমেন্ট |
+| 1189 | 薬局       | yakkyoku (ইয়াক্কিয়োকু)         | pharmacy                   | ফার্মেসি                     |
+| 1190 | 優しい      | yasashii (ইয়াসাশিই)            | kind, gentle               | সদয়, নরম                     |
+| 1191 | 厄介       | yakkai (ইয়াক্কাই)              | troublesome                | ঝামেলাপূর্ণ                  |
+| 1192 | 屋上       | okujou (ওকুজৌ)                 | rooftop                    | ছাদ                          |
+| 1193 | 容易       | youi (ইয়োউই)                   | easy, simple               | সহজ                          |
+| 1194 | 要求       | youkyuu (ইয়োক্যু)              | demand, request            | দাবি, অনুরোধ                 |
+| 1195 | 様子       | yousu (ইয়োউসু)                 | state, appearance          | অবস্থা                       |
+| 1196 | 用事       | youji (ইয়ৌজি)                  | errand, business           | প্রয়োজনীয় কাজ                |
+| 1197 | 用意       | youi (ইয়োউই)                   | preparation                | প্রস্তুতি                    |
+| 1198 | 用法       | youhou (ইয়োহৌ)                 | usage, method              | ব্যবহারের নিয়ম               |
+| 1199 | 様々       | samazama (সমাজামা)             | various                    | বিভিন্ন                      |
+| 1200 | 幼稚園      | youchien (ইয়োউচিএন)            | kindergarten               | কিন্ডারগার্টেন               |
+
+
+| #    | Japanese | Pronunciation (Romaji + বাংলা)   | English Meaning                | Bangla Meaning              |
+| ---- | -------- | -------------------------------- | ------------------------------ | --------------------------- |
+| 1201 | 予習       | yoshuu (ইয়োশূউ)                  | preparation (lesson)           | পাঠ প্রস্তুতি               |
+| 1202 | 予定       | yotei (ইয়োতেই)                   | plan, schedule                 | পরিকল্পনা, সময়সূচি          |
+| 1203 | 予約       | yoyaku (ইয়োইয়াকু)                | reservation, booking           | বুকিং, সংরক্ষণ              |
+| 1204 | 喜ぶ       | yorokobu (ইয়োরোকোবু)             | to be delighted                | খুশি হওয়া                   |
+| 1205 | 寄る       | yoru (ইয়োরু)                     | to drop by, to stop by         | থামা, যেতে যাওয়া            |
+| 1206 | 預ける      | azukeru (আজুকেরু)                | to deposit, entrust            | জমা রাখা, কাউকে দেওয়া       |
+| 1207 | 預かる      | azukaru (আজুকারু)                | to receive on deposit          | জমা নেয়া, তত্ত্বাবধান করা   |
+| 1208 | 揺れる      | yureru (ইউয়েরু)                  | to shake, sway                 | কাঁপা, দুলে যাওয়া           |
+| 1209 | 許す       | yurusu (ইউরুসু)                  | to forgive, to permit          | ক্ষমা করা, অনুমতি দেওয়া     |
+| 1210 | 輸入       | yunyuu (ইউনিউউ)                  | import                         | আমদানি                      |
+| 1211 | 輸出       | yushutsu (ইউশুত্সু)              | export                         | রপ্তানি                     |
+| 1212 | 有料       | yuuryou (ইউরিয়ৌ)                 | fee-charging, paid             | ফি-সহ, টাকা লাগে এমন        |
+| 1213 | 有名人      | yuumeijin (ইউমেইজিন)             | celebrity                      | সেলিব্রিটি                  |
+| 1214 | 幸せ       | shiawase (শিয়াওয়াসে)             | happiness                      | সুখ                         |
+| 1215 | 幸運       | kouun (কৌউন)                     | good luck                      | সৌভাগ্য                     |
+| 1216 | 不幸       | fukou (ফুকৌ)                     | misfortune                     | দুর্ভাগ্য                   |
+| 1217 | 不思議      | fushigi (ফুশিগি)                 | mysterious, strange            | অদ্ভুত, রহস্যময়             |
+| 1218 | 不便       | fuben (ফুবেন)                    | inconvenient                   | অসুবিধাজনক                  |
+| 1219 | 不安       | fuan (ফুয়ান)                     | anxiety, uneasy                | দুশ্চিন্তা                  |
+| 1220 | 受付       | uketsuke (উকেতসুকে)              | reception (desk)               | রিসেপশন                     |
+| 1221 | 受ける      | ukeru (উকেরু)                    | to receive, to take (exam)     | গ্রহণ করা, পরীক্ষা দেওয়া    |
+| 1222 | 受付係      | uketsukegakari (উকেতসুকে গাকারি) | receptionist                   | রিসেপশনিস্ট                 |
+| 1223 | 打つ       | utsu (উৎসু)                      | to hit, to strike              | মারা, আঘাত করা              |
+| 1224 | 移す       | utsusu (উৎসুসু)                  | to move, transfer              | সরানো                       |
+| 1225 | 写す       | utsusu (উৎসুসু)                  | to copy, photograph            | নকল করা, ছবি তোলা           |
+| 1226 | 映す       | utsusu (উৎসুসু)                  | to project, reflect            | প্রতিফলিত করা               |
+| 1227 | 移る       | utsuru (উৎসুরু)                  | to move, transfer (self)       | নিজে সরানো                  |
+| 1228 | 写る       | utsuru (উৎসুরু)                  | to be photographed             | ছবি তোলা হওয়া               |
+| 1229 | 移動       | idou (ইদৌ)                       | movement, transfer             | চলাচল, স্থানান্তর           |
+| 1230 | 運ぶ       | hakobu (হাকোবু)                  | to carry                       | বহন করা                     |
+| 1231 | 運転手      | untenshu (উনতেনশু)               | driver                         | চালক                        |
+| 1232 | 運転する     | unten suru (উনতেন সুরু)          | to drive                       | গাড়ি চালানো                 |
+| 1233 | 運転免許     | unten menkyo (উনতেন মেনক্যো)     | driver's license               | ড্রাইভিং লাইসেন্স           |
+| 1234 | 運動       | undou (উন্দোউ)                   | exercise, movement             | ব্যায়াম, চলাফেরা            |
+| 1235 | 運動会      | undoukai (উন্দোউকাই)             | sports day                     | ক্রীড়া দিবস                 |
+| 1236 | 演奏       | ensou (এনসোউ)                    | musical performance            | সঙ্গীত পরিবেশনা             |
+| 1237 | 演技       | engi (এনগি)                      | acting, performance            | অভিনয়                       |
+| 1238 | 演説       | enzetsu (এনজেতসু)                | speech, address                | বক্তৃতা                     |
+| 1239 | 演出       | enshutsu (এনশুত্সু)              | production, direction          | মঞ্চায়ন, পরিচালনা           |
+| 1240 | 演歌       | enka (এনকা)                      | enka (music genre)             | এনকা (জাপানি সংগীত)         |
+| 1241 | 応援       | ouen (ওউএন)                      | support, cheering              | সমর্থন, উৎসাহ               |
+| 1242 | 応募       | oubo (ওউবো)                      | application                    | আবেদন                       |
+| 1243 | 応じる      | oujiru (ওউজিরু)                  | to respond, comply             | সাড়া দেওয়া, মানা            |
+| 1244 | 横        | yoko (ইয়োকো)                     | side, horizontal               | পাশে, আনুভূমিক              |
+| 1245 | 横断歩道     | oudanhodou (ওউদানহোদৌ)           | crosswalk                      | জেব্রা ক্রসিং               |
+| 1246 | 汚れる      | yogoreru (ইয়োগোরেরু)             | to get dirty                   | নোংরা হওয়া                  |
+| 1247 | 汚す       | yogosu (ইয়োগোসু)                 | to make dirty                  | নোংরা করা                   |
+| 1248 | 汚い       | kitanai (কিতানাই)                | dirty                          | নোংরা                       |
+| 1249 | 優勝       | yuushou (ইউশোউ)                  | victory, championship          | বিজয়                        |
+| 1250 | 用語       | yougo (ইয়োগো)                    | terminology                    | পরিভাষা                     |
+| 1251 | 様式       | youshiki (ইয়োশিকি)               | style, form                    | শৈলী, ফরম্যাট               |
+| 1252 | 様々       | samazama (সামাজামা)              | various                        | বিভিন্ন                     |
+| 1253 | 幼児       | youji (ইয়ৌজি)                    | infant, toddler                | ছোট শিশু                    |
+| 1254 | 幼少       | youshou (ইয়োউশোউ)                | infancy, childhood             | শৈশব                        |
+| 1255 | 幼友達      | osanatomodachi (ওসানা তোমোদাচি)  | childhood friend               | শৈশবের বন্ধু                |
+| 1256 | 楽しみ      | tanoshimi (তানোশিমি)             | enjoyment, looking forward     | উপভোগ, অপেক্ষার আনন্দ       |
+| 1257 | 楽しむ      | tanoshimu (তানোশিমু)             | to enjoy                       | উপভোগ করা                   |
+| 1258 | 笑顔       | egao (এগাও)                      | smile                          | হাসিমুখ                     |
+| 1259 | 笑う       | warau (ওয়ারাউ)                   | to laugh, to smile             | হাসা                        |
+| 1260 | 笑い声      | waraigoe (ওয়ারাইগোয়)             | laughter                       | হাসির শব্দ                  |
+| 1261 | 泣く       | naku (নাকু)                      | to cry                         | কাঁদা                       |
+| 1262 | 泣き声      | nakigoe (নাকিগোয়)                | crying voice                   | কান্নার শব্দ                |
+| 1263 | 怒る       | okoru (ওকোরু)                    | to get angry                   | রাগ করা                     |
+| 1264 | 怒り       | ikari (ইকারি)                    | anger                          | রাগ                         |
+| 1265 | 喜び       | yorokobi (ইয়োরোকোবি)             | joy, delight                   | আনন্দ                       |
+| 1266 | 驚く       | odoroku (ওদোরোকু)                | to be surprised                | অবাক হওয়া                   |
+| 1267 | 驚き       | odoroki (ওদোরোকি)                | surprise                       | বিস্ময়                      |
+| 1268 | 悲しむ      | kanashimu (কানাশিমু)             | to be sad                      | দুঃখিত হওয়া                 |
+| 1269 | 悲しみ      | kanashimi (কানাশিমি)             | sadness                        | দুঃখ                        |
+| 1270 | 恐れる      | osoreru (ওসোরেরু)                | to fear, to be afraid          | ভয় পাওয়া                    |
+| 1271 | 恐ろしい     | osoroshii (ওসোরোশিই)             | terrible, dreadful             | ভীতিকর                      |
+| 1272 | 希望       | kibou (কিবৌ)                     | hope, wish                     | আশা                         |
+| 1273 | 欲しい      | hoshii (হোশিই)                   | want, desire                   | চাওয়া                       |
+| 1274 | 望み       | nozomi (নোজুমি)                  | wish, desire                   | আকাঙ্ক্ষা                   |
+| 1275 | 恋人       | koibito (কোইবিতো)                | lover, partner                 | প্রেমিক/প্রেমিকা            |
+| 1276 | 恋愛       | ren'ai (রেনাই)                   | romantic love                  | প্রেম                       |
+| 1277 | 結婚式      | kekkonshiki (কেক্কনশিকি)         | wedding ceremony               | বিবাহ অনুষ্ঠান              |
+| 1278 | 結婚する     | kekkon suru (কেক্কন সুরু)        | to marry                       | বিয়ে করা                   |
+| 1279 | 夫婦       | fuufu (ফুউফু)                    | married couple                 | দম্পতি                      |
+| 1280 | 夫        | otto (ওত্তো)                     | husband                        | স্বামী                      |
+| 1281 | 妻        | tsuma (ৎসুমা)                    | wife                           | স্ত্রী                      |
+| 1282 | 独身       | dokushin (দোকুশিন)               | single, unmarried              | অবিবাহিত                    |
+| 1283 | 離婚       | rikon (রিকোন)                    | divorce                        | বিবাহবিচ্ছেদ                |
+| 1284 | 親子       | oyako (ওয়াকো)                    | parent and child               | পিতা-মাতা ও সন্তান          |
+| 1285 | 親戚       | shinseki (শিনসেকি)               | relative                       | আত্মীয়                      |
+| 1286 | 兄弟       | kyoudai (কিয়ৌদাই)                | siblings                       | ভাইবোন                      |
+| 1287 | 姉妹       | shimai (শিমাই)                   | sisters                        | বোনেরা                      |
+| 1288 | 双子       | futago (ফুতাগো)                  | twins                          | যমজ                         |
+| 1289 | 孫        | mago (মাগো)                      | grandchild                     | নাতি/নাতনি                  |
+| 1290 | 祖父母      | sofubo (সোফুবো)                  | grandparents                   | দাদা-দাদি/নানা-নানি         |
+| 1291 | おじ       | oji (ওজি)                        | uncle                          | চাচা/মামা                   |
+| 1292 | おば       | oba (ওবা)                        | aunt                           | চাচী/খালা                   |
+| 1293 | 甥        | oi (ওই)                          | nephew                         | ভাগ্নে/ভাইপো                |
+| 1294 | 姪        | mei (মেই)                        | niece                          | ভাগ্নি/ভাইঝি                |
+| 1295 | 親友       | shinyuu (শিনিউউ)                 | best friend                    | ঘনিষ্ঠ বন্ধু                |
+| 1296 | 仲間       | nakama (নাকামা)                  | companion, mate                | সঙ্গী, বন্ধু                |
+| 1297 | 仲良し      | nakayoshi (নাকায়োশি)             | close friend                   | ঘনিষ্ঠ বন্ধু                |
+| 1298 | 知人       | chijin (চিজিন)                   | acquaintance                   | পরিচিত                      |
+| 1299 | 友人       | yuujin (ইউউজিন)                  | friend                         | বন্ধু                       |
+| 1300 | 関係       | kankei (কানকেই)                  | relation, connection           | সম্পর্ক                     |
+| 1301 | 感情       | kanjou (কানজৌ)                   | emotion, feeling               | অনুভূতি                     |
+| 1302 | 感動       | kandou (কানদৌ)                   | deep emotion, impression       | আবেগ, গভীর অনুভূতি          |
+| 1303 | 感謝       | kansha (কানশা)                   | gratitude                      | কৃতজ্ঞতা                    |
+| 1304 | 感想       | kansou (কানসৌ)                   | impression, thoughts           | অনুভব, ভাবনা                |
+| 1305 | 感心       | kanshin (কানশিন)                 | admiration                     | মুগ্ধতা                     |
+| 1306 | 感覚       | kankaku (কানকাকু)                | sense, sensation               | ইন্দ্রিয়, অনুভূতি           |
+| 1307 | 感染       | kansen (কানসেন)                  | infection                      | সংক্রমণ                     |
+| 1308 | 感覚的      | kankakuteki (কানকাকু তেকি)       | sensory, intuitive             | ইন্দ্রিয়গ্রাহ্য, অনুভবযোগ্য |
+| 1309 | 感覚器官     | kankaku kikan (কানকাকু কিকান)    | sense organ                    | ইন্দ্রিয় অঙ্গ               |
+| 1310 | 空気       | kuuki (কু-উকি)                   | air, atmosphere                | বাতাস                       |
+| 1311 | 空港       | kuukou (কু-উকৌ)                  | airport                        | বিমানবন্দর                  |
+| 1312 | 空間       | kuukan (কু-উকান)                 | space                          | স্থান                       |
+| 1313 | 空席       | kuuseki (কু-উসেকি)               | vacant seat                    | ফাঁকা আসন                   |
+| 1314 | 空く       | aku (আকু)                        | to become vacant               | ফাঁকা হয়ে যাওয়া             |
+| 1315 | 空き       | aki (আকি)                        | vacancy                        | শূন্যতা, খালি জায়গা         |
+| 1316 | 空手       | karate (কারাতে)                  | karate                         | কারাতে                      |
+| 1317 | 空腹       | kuufuku (কু-উফুকু)               | hunger, empty stomach          | ক্ষুধা                      |
+| 1318 | 空想       | kuusou (কু-উসোউ)                 | daydream, fantasy              | কল্পনা                      |
+| 1319 | 空気清浄機    | kuuki seijouki (কু-উকি সেইজৌকি)  | air purifier                   | এয়ার পিউরিফায়ার             |
+| 1320 | 会場       | kaijou (কাইজৌ)                   | event venue                    | অনুষ্ঠানস্থল                |
+| 1321 | 会談       | kaidan (কাইদান)                  | conversation, conference       | আলোচনা, বৈঠক                |
+| 1322 | 会費       | kaihi (কাইহি)                    | membership fee                 | সদস্য ফি                    |
+| 1323 | 会員       | kaiin (কাইইন)                    | member                         | সদস্য                       |
+| 1324 | 会計       | kaikei (কাইকেই)                  | accounting, bill               | হিসাব, বিল                  |
+| 1325 | 会館       | kaikan (কাইকান)                  | hall, meeting place            | মিলনায়তন                    |
+| 1326 | 会長       | kaichou (কাইচৌ)                  | president (of an organization) | সভাপতি                      |
+| 1327 | 会議       | kaigi (কাইগি)                    | meeting, conference            | সভা, মিটিং                  |
+| 1328 | 会社員      | kaishain (কাইশ্যাইন)             | company employee               | অফিস কর্মচারী               |
+| 1329 | 企画       | kikaku (কিকাকু)                  | planning, project              | পরিকল্পনা                   |
+| 1330 | 企業       | kigyou (কিগ্যৌ)                  | company, enterprise            | কোম্পানি                    |
+| 1331 | 期間       | kikan (কিকান)                    | period, term                   | সময়কাল                      |
+| 1332 | 機会       | kikai (কিকাই)                    | opportunity, chance            | সুযোগ                       |
+| 1333 | 機能       | kinou (কিনোউ)                    | function, feature              | ফাংশন, বৈশিষ্ট্য            |
+| 1334 | 機械       | kikai (কিকাই)                    | machine, machinery             | যন্ত্র                      |
+| 1335 | 機器       | kiki (কিকি)                      | device, equipment              | ডিভাইস, যন্ত্রপাতি          |
+| 1336 | 機嫌       | kigen (কিগেন)                    | mood, temper                   | মেজাজ                       |
+| 1337 | 規則       | kisoku (কিসোকু)                  | rule, regulation               | নিয়ম                        |
+| 1338 | 規模       | kibo (কিবো)                      | scale, scope                   | পরিসর                       |
+| 1339 | 規定       | kitei (কিতেই)                    | regulation, provision          | বিধান                       |
+| 1340 | 規約       | kiyaku (কিয়াকু)                  | agreement, rules               | চুক্তি, বিধান               |
+| 1341 | 規律       | kiritsu (কিরিত্সু)               | discipline, order              | শৃঙ্খলা                     |
+| 1342 | 基本       | kihon (কিহোন)                    | basis, foundation              | মৌলিক, ভিত্তি               |
+| 1343 | 基準       | kijun (কিজুন)                    | standard, criterion            | মান, মানদণ্ড                |
+| 1344 | 基地       | kichi (কিচি)                     | base, station                  |                             |
+**150 N4/N3 high-frequency, practical vocabulary**  
+
+
+| #    | Japanese | Pronunciation (Romaji + বাংলা)         | English Meaning               | Bangla Meaning             |
+| ---- | -------- | -------------------------------------- | ----------------------------- | -------------------------- |
+| 1351 | 進む       | susumu (সুসুমু)                        | to advance, proceed           | এগিয়ে যাওয়া                |
+| 1352 | 進める      | susumeru (সুসুমেরু)                    | to recommend, move forward    | পরামর্শ দেওয়া, এগিয়ে দেওয়া |
+| 1353 | 進学       | shingaku (শিনগাকু)                     | entering a higher school      | উচ্চ শিক্ষায় ভর্তি         |
+| 1354 | 進歩       | shinpo (শিনপো)                         | progress, improvement         | অগ্রগতি                    |
+| 1355 | 進化       | shinka (শিনকা)                         | evolution                     | বিবর্তন                    |
+| 1356 | 退院       | taiin (তাইইন)                          | leaving hospital              | হাসপাতাল থেকে ছাড়া পাওয়া   |
+| 1357 | 退学       | taigaku (তাইগাকু)                      | dropping out (school)         | স্কুল থেকে ছাড়পত্র         |
+| 1358 | 退職       | taishoku (তাইশোকু)                     | retirement                    | অবসর নেওয়া                 |
+| 1359 | 退屈       | taikutsu (তাইকুত্সু)                   | boredom                       | একঘেয়েমি                   |
+| 1360 | 送る       | okuru (ওকুরু)                          | to send                       | পাঠানো                     |
+| 1361 | 送り仮名     | okurigana (ওকুরিগানা)                  | kana suffix                   | ওকুরিগানা (কানার সাফিক্স)  |
+| 1362 | 送信       | soushin (সোউশিন)                       | transmission, sending         | পাঠানো                     |
+| 1363 | 送金       | soukin (সৌকিন)                         | money transfer                | টাকা পাঠানো                |
+| 1364 | 放送       | housou (হৌসৌ)                          | broadcasting                  | সম্প্রচার                  |
+| 1365 | 発表       | happyou (হাপ্প্যৌ)                     | presentation                  | উপস্থাপন                   |
+| 1366 | 発明       | hatsumei (হাতসুমেই)                    | invention                     | আবিষ্কার                   |
+| 1367 | 発音       | hatsuon (হাতসুওন)                      | pronunciation                 | উচ্চারণ                    |
+| 1368 | 発達       | hattatsu (হাত্তাত্সু)                  | development, growth           | বিকাশ, উন্নতি              |
+| 1369 | 発車       | hassha (হাতশা)                         | departure of vehicle          | গাড়ি ছাড়ার সময়             |
+| 1370 | 発見       | hakken (হাক্কেন)                       | discovery                     | আবিষ্কার                   |
+| 1371 | 発行       | hakkou (হাক্কৌ)                        | publication, issue            | প্রকাশ, ইস্যু              |
+| 1372 | 発展       | hatten (হাত্তেন)                       | expansion, development        | সম্প্রসারণ                 |
+| 1373 | 発生       | hassei (হাসসেই)                        | occurrence                    | সংঘটন                      |
+| 1374 | 発送       | hassou (হাসসৌ)                         | shipment, dispatch            | প্রেরণ, পাঠানো             |
+| 1375 | 発作       | hossa (হোস্সা)                         | fit, spasm                    | খিঁচুনি, আকস্মিক           |
+| 1376 | 発電       | hatsuden (হাতসুদেন)                    | generation of power           | বিদ্যুৎ উৎপাদন             |
+| 1377 | 発売       | hatsubai (হাত্সুবাই)                   | release (of product)          | বাজারজাতকরণ                |
+| 1378 | 半分       | hanbun (হানবুন)                        | half                          | অর্ধেক                     |
+| 1379 | 半島       | hantou (হানতোউ)                        | peninsula                     | উপদ্বীপ                    |
+| 1380 | 半額       | hangaku (হানগাকু)                      | half price                    | অর্ধেক দাম                 |
+| 1381 | 反対       | hantai (হান্তাই)                       | opposition                    | বিরোধিতা                   |
+| 1382 | 反省       | hansei (হানসেই)                        | reflection, reconsideration   | আত্মসমালোচনা               |
+| 1383 | 反応       | hannou (হান্নৌ)                        | reaction, response            | প্রতিক্রিয়া                |
+| 1384 | 反発       | hanpatsu (হানপাতসু)                    | repulsion, resistance         | প্রতিরোধ                   |
+| 1385 | 反映       | hanei (হানেই)                          | reflection (image), influence | প্রতিফলন, প্রভাব           |
+| 1386 | 反乱       | hanran (হানরান)                        | rebellion                     | বিদ্রোহ                    |
+| 1387 | 反撃       | hangeki (হানগেকি)                      | counterattack                 | পাল্টা আক্রমণ              |
+| 1388 | 反射       | hansha (হানশা)                         | reflection (light/sound)      | প্রতিফলন                   |
+| 1389 | 変更       | henkou (হেনকৌ)                         | change, modification          | পরিবর্তন                   |
+| 1390 | 変化       | henka (হেনকা)                          | change, transformation        | পরিবর্তন                   |
+| 1391 | 変わる      | kawaru (কাওয়ারু)                       | to change (intransitive)      | পরিবর্তিত হওয়া             |
+| 1392 | 変える      | kaeru (কায়েরু)                         | to change (something)         | পরিবর্তন করা               |
+| 1393 | 変身       | henshin (হেনশিন)                       | transformation                | রূপান্তর                   |
+| 1394 | 変人       | henjin (হেনজিন)                        | eccentric person              | অদ্ভুত মানুষ               |
+| 1395 | 変態       | hentai (হেনতাই)                        | abnormal, pervert             | বিকৃত, ভিন্নধর্মী          |
+| 1396 | 変動       | hendou (হেনদৌ)                         | fluctuation                   | ওঠানামা, পরিবর্তন          |
+| 1397 | 変則       | hensoku (হেনসোকু)                      | irregularity                  | অনিয়মিতা                  |
+| 1398 | 変形       | henkei (হেনকেই)                        | transformation, deformation   | বিকৃতি                     |
+| 1399 | 便        | ben (বেন)                              | convenience, service          | সুবিধা                     |
+| 1400 | 便所       | benjo (বেনজো)                          | toilet                        | টয়লেট                      |
+| 1401 | 便利       | benri (বেনরি)                          | convenient                    | সুবিধাজনক                  |
+| 1402 | 便箋       | binsen (বিনসেন)                        | writing paper                 | লেখার কাগজ                 |
+| 1403 | 便名       | binmei (বিনমেই)                        | flight number                 | ফ্লাইট নম্বর               |
+| 1404 | 便器       | benki (বেনকি)                          | toilet bowl                   | কমোড                       |
+| 1405 | 便り       | tayori (তাইয়রি)                        | letter, news                  | চিঠি, সংবাদ                |
+| 1406 | 便乗       | binjou (বিনজোউ)                        | taking advantage of           | সুযোগ নেওয়া                |
+| 1407 | 便当       | bentou (বেনতোউ)                        | boxed lunch                   | বেন্টো (বক্স খাবার)        |
+| 1408 | 不便       | fuben (ফুবেন)                          | inconvenient                  | অসুবিধাজনক                 |
+| 1409 | 不満       | fuman (ফুমান)                          | dissatisfaction               | অসন্তুষ্টি                 |
+| 1410 | 不足       | fusoku (ফুসোকু)                        | shortage, lack                | ঘাটতি                      |
+| 1411 | 不可能      | fukanou (ফুকানৌ)                       | impossible                    | অসম্ভব                     |
+| 1412 | 不思議      | fushigi (ফুশিগি)                       | mysterious                    | রহস্যময়                    |
+| 1413 | 不要       | fuyou (ফুয়ৌ)                           | unnecessary                   | অপ্রয়োজনীয়                 |
+| 1414 | 不安       | fuan (ফুয়ান)                           | uneasiness                    | উদ্বেগ                     |
+| 1415 | 不正       | fusei (ফুসেই)                          | injustice                     | অন্যায়                     |
+| 1416 | 不明       | fumei (ফুমেই)                          | unclear                       | অস্পষ্ট                    |
+| 1417 | 不幸       | fukou (ফুকৌ)                           | unhappiness                   | দুঃখ                       |
+| 1418 | 不潔       | fuketsu (ফুকেতসু)                      | dirty, unclean                | অশুচি                      |
+| 1419 | 不動産      | fudousan (ফুদোউসান)                    | real estate                   | রিয়েল এস্টেট               |
+| 1420 | 不要品      | fuyouhin (ফুয়ৌহিন)                     | unnecessary goods             | অপ্রয়োজনীয় জিনিস           |
+| 1421 | 不自然      | fushizen (ফুশিজেন)                     | unnatural                     | অস্বাভাবিক                 |
+| 1422 | 不自由      | fujiyuu (ফুজিয়ূ)                       | inconvenience                 | অসুবিধা                    |
+| 1423 | 不真面目     | fumajime (ফুমাজিমে)                    | not serious                   | অসংযত                      |
+| 1424 | 不利       | furi (ফুরি)                            | disadvantageous               | প্রতিকূল                   |
+| 1425 | 不公平      | fukouhei (ফুকৌহেই)                     | unfair                        | অন্যায্য                   |
+| 1426 | 不参加      | fusanka (ফুসানকা)                      | nonparticipation              | অংশগ্রহণহীন                |
+| 1427 | 不快       | fukai (ফুকাই)                          | unpleasant                    | অস্বস্তিকর                 |
+| 1428 | 不便       | fuben (ফুবেন)                          | inconvenient                  | অসুবিধাজনক                 |
+| 1429 | 不眠       | fumin (ফুমিন)                          | insomnia                      | অনিদ্রা                    |
+| 1430 | 不通       | futsuu (ফুৎসূউ)                        | interruption                  | বাধা                       |
+| 1431 | 不足       | fusoku (ফুসোকু)                        | insufficiency                 | অপ্রতুলতা                  |
+| 1432 | 不当       | futou (ফুতৌ)                           | improper, unjust              | অনুচিত                     |
+| 1433 | 不正       | fusei (ফুসেই)                          | injustice                     | অন্যায়                     |
+| 1434 | 不健康      | fukenkou (ফুকেনকৌ)                     | unhealthy                     | অসুস্থ                     |
+| 1435 | 不注意      | fuchuui (ফুচুই)                        | carelessness                  | অসতর্কতা                   |
+| 1436 | 不得意      | futokui (ফুতোকুই)                      | poor at                       | অপটু                       |
+| 1437 | 不幸せ      | fushiawase (ফুশিয়াওয়াসে)               | unhappiness                   | দুঃখ                       |
+| 1438 | 不機嫌      | fukigen (ফুকিগেন)                      | displeased                    | বিরক্ত                     |
+| 1439 | 不平等      | fubyoudou (ফুবিয়োদৌ)                   | inequality                    | বৈষম্য                     |
+| 1440 | 不規則      | fukisoku (ফুকিসোকু)                    | irregularity                  | অনিয়ম                     |
+| 1441 | 不満足      | fuman zoku (ফুমান জোকু)                | dissatisfaction               | অসন্তুষ্টি                 |
+| 1442 | 不十分      | fujūbun (ফুজুবুন)                      | insufficient                  | অপর্যাপ্ত                  |
+| 1443 | 不思議      | fushigi (ফুশিগি)                       | mysterious                    | অদ্ভুত                     |
+| 1444 | 不景気      | fukeiki (ফুকেয়কি)                      | recession, slump              | মন্দা                      |
+| 1445 | 不要不急     | fuyou fukyuu (ফুয়ৌ ফুক্যূ)             | unnecessary and non-urgent    | অপ্রয়োজনীয় ও জরুরি নয় এমন  |
+| 1446 | 不自然      | fushizen (ফুশিজেন)                     | unnatural                     | অস্বাভাবিক                 |
+| 1447 | 不正確      | fuseikaku (ফুসেইকাকু)                  | inaccurate                    | ভুল                        |
+| 1448 | 不合格      | fugoukaku (ফুগৌকাকু)                   | failure (exam)                | পরীক্ষায় ফেল               |
+| 1449 | 不成立      | fuseiritsu (ফুসেইরিতসু)                | invalid                       | অবৈধ                       |
+| 1450 | 不一致      | fuicchi (ফুইচি)                        | disagreement                  | মতবিরোধ                    |
+| 1451 | 必要       | hitsuyou (হিতসুয়োউ)                    | necessary                     | প্রয়োজনীয়                  |
+| 1452 | 必死       | hisshi (হিশ্চি)                        | desperate                     | মরিয়া                      |
+| 1453 | 必ず       | kanarazu (কানারাজু)                    | without fail                  | নিশ্চয়ই                    |
+| 1454 | 必需品      | hitsujuhin (হিতসুজুহিন)                | necessities                   | প্রয়োজনীয় জিনিস            |
+| 1455 | 必見       | hikken (হিক্কেন)                       | must-see                      | অবশ্যই দেখা উচিত           |
+| 1456 | 必勝       | hisshou (হিসশৌ)                        | certain victory               | নিশ্চিত জয়                 |
+| 1457 | 必携       | hikkei (হিক্কেই)                       | must-carry                    | অবশ্যই সঙ্গে রাখা উচিত     |
+| 1458 | 必要性      | hitsuyousei (হিতসুয়োসেই)               | necessity                     | প্রয়োজনীয়তা                |
+| 1459 | 必読       | hitsudoku (হিতসুদোকু)                  | must-read                     | অবশ্যই পড়া উচিত            |
+| 1460 | 必然       | hitsuzen (হিতসুজেন)                    | inevitability                 | অনিবার্যতা                 |
+| 1461 | 必殺       | hissatsu (হিসসাতসু)                    | sure kill                     | নিশ্চয় মৃত্যুদণ্ড          |
+| 1462 | 必勝法      | hisshouhou (হিসশৌহৌ)                   | winning method                | জয় লাভের পদ্ধতি            |
+| 1463 | 必修       | hisshuu (হিসশূউ)                       | required (subject)            | বাধ্যতামূলক (বিষয়)         |
+| 1464 | 必要条件     | hitsuyou jouken (হিতসুয়ো জৌকেন)        | necessary condition           | প্রয়োজনীয় শর্ত             |
+| 1465 | 必携品      | hikkeihin (হিক্কেইহিন)                 | must-carry item               | অবশ্যই সঙ্গে রাখা জিনিস    |
+| 1466 | 必要不可欠    | hitsuyou fukaketsu (হিতসুয়ো ফুকাকেতসু) | indispensable                 | অপরিহার্য                  |
+| 1467 | 必然的      | hitsuzenteki (হিতসুজেনতেকি)            | inevitable                    | অনিবার্য                   |
+| 1468 | 忘れる      | wasureru (ওয়াসুরেরু)                   | to forget                     | ভুলে যাওয়া                 |
+| 1469 | 思い出す     | omoidasu (ওমোইদাসু)                    | to recall                     | মনে পড়া                    |
+| 1470 | 思い出      | omoide (ওমোইদে)                        | memory                        | স্মৃতি                     |
+| 1471 | 思う       | omou (ওমৌউ)                            | to think                      | ভাবা                       |
+| 1472 | 思考       | shikou (শিকৌ)                          | thought, thinking             | চিন্তা                     |
+| 1473 | 思想       | shisou (শিসৌ)                          | ideology                      | মতবাদ                      |
+| 1474 | 思春期      | shishunki (শিশুনকি)                    | adolescence                   | কৈশোর                      |
+| 1475 | 思索       | shisaku (শিসাকু)                       | speculation                   | অনুধাবন                    |
+| 1476 | 忘却       | boukyaku (বৌক্যকু)                     | oblivion                      | বিস্মৃতি                   |
+| 1477 | 忘年会      | bounenkai (বৌনেনকাই)                   | year-end party                | বছরের শেষ পার্টি           |
+| 1478 | 忘れ物      | wasuremono (ওয়াসুরেমোনো)               | forgotten item                | ফেলে আসা জিনিস             |
+| 1479 | 恥ずかしい    | hazukashii (হাজুকাশিই)                 | embarrassing                  | লজ্জাজনক                   |
+| 1480 | 恥        | haji (হাজি)                            | shame                         | লজ্জা                      |
+| 1481 | 恥じる      | hajiru (হাজিরু)                        | to be ashamed                 | লজ্জা পাওয়া                |
+| 1482 | 恥知らず     | hajishirazu (হাজিশিরাজু)               | shameless                     | নির্লজ্জ                   |
+| 1483 | 希望       | kibou (কিবৌ)                           | hope                          | আশা                        |
+| 1484 | 希望者      | kibousha (কিবৌশা)                      | applicant, hopeful            | আবেদনকারী                  |
+| 1485 | 望む       | nozomu (নোজোমু)                        | to hope, to wish              | আশা করা                    |
+| 1486 | 願う       | negau (নেগাউ)                          | to wish, to request           | কামনা করা, অনুরোধ করা      |
+| 1487 | 願い       | negai (নেগাই)                          | wish                          | আশা, চাওয়া                 |
+| 1488 | 願書       | gansho (গানশো)                         | written application           | লিখিত আবেদন                |
+| 1489 | 夢        | yume (ইউমে)                            | dream                         | স্বপ্ন                     |
+| 1490 | 夢中       | muchuu (মুচূউ)                         | absorbed in                   | নিমগ্ন                     |
+| 1491 | 夢見る      | yumemiru (ইউমেমিরু)                    | to dream                      | স্বপ্ন দেখা                |
+| 1492 | 夢想       | musou (মুসৌ)                           | fantasy, daydream             | কল্পনা                     |
+| 1493 | 夢物語      | yumemonogatari (ইউমেমনোগাতারি)         | fairy tale                    | পরী গল্প                   |
+| 1494 | 悪夢       | akumu (আকুমু)                          | nightmare                     | দুঃস্বপ্ন                  |
+| 1495 | 理想       | risou (রিসৌ)                           | ideal                         | আদর্শ                      |
+| 1496 | 理論       | riron (রিরোন)                          | theory                        | তত্ত্ব                     |
+| 1497 | 理解       | rikai (রিকাই)                          | understanding                 | বোঝা                       |
+| 1498 | 理由       | riyuu (রিইউ)                           | reason                        | কারণ                       |
+| 1499 | 理科       | rika (রিকা)                            | science                       | বিজ্ঞান                    |
+| 1500 | 理工学      |	rikougaku (রিকৌগাকু)                  | science and engineering       |  বিজ্ঞান ও প্রকৌশল          |
+ 
