@@ -802,3 +802,169 @@
 | 798 | 苦い          | nigai (নিগাই)                      | bitter                     | তিতা                    |
 | 799 | 塩辛い        | shiokarai (শিওকারাই)               | salty                      | লবণাক্ত                 |
 | 800 | 酸っぱい      | suppai (সুপ্পাই)                    | sour                       | টক                      |
+ 
+## JLPT N5–N4 Vocabulary (Words #801–900)
+
+| #   | Japanese | Pronunciation (Romaji + বাংলা) | English Meaning      | Bangla Meaning     |
+| --- | -------- | ------------------------------ | -------------------- | ------------------ |
+| 801 | 新聞       | shinbun (শিনবুন)               | newspaper            | সংবাদপত্র          |
+| 802 | 雑誌       | zasshi (জাশ্চি)                | magazine             | ম্যাগাজিন          |
+| 803 | 手紙       | tegami (তেগামি)                | letter               | চিঠি               |
+| 804 | 電話       | denwa (দেনওয়া)                 | telephone            | টেলিফোন            |
+| 805 | 電気       | denki (দেনকি)                  | electricity, light   | বিদ্যুৎ, আলো       |
+| 806 | 写真       | shashin (শাশিন)                | photograph           | ছবি                |
+| 807 | 映画       | eiga (এইগা)                    | movie                | সিনেমা             |
+| 808 | 音楽       | ongaku (ওনগাকু)                | music                | সঙ্গীত             |
+| 809 | 歌        | uta (উতা)                      | song                 | গান                |
+| 810 | 絵        | e (এ)                          | picture, drawing     | ছবি, অঙ্কন         |
+| 811 | 天気       | tenki (তেনকি)                  | weather              | আবহাওয়া            |
+| 812 | 雨        | ame (আমে)                      | rain                 | বৃষ্টি             |
+| 813 | 雪        | yuki (ইউকি)                    | snow                 | বরফ                |
+| 814 | 風        | kaze (কাজে)                    | wind                 | বাতাস              |
+| 815 | 空        | sora (সোরা)                    | sky                  | আকাশ               |
+| 816 | 星        | hoshi (হোশি)                   | star                 | তারা               |
+| 817 | 月        | tsuki (ৎসুকি)                  | moon                 | চাঁদ               |
+| 818 | 太陽       | taiyou (তাইয়োউ)                | sun                  | সূর্য              |
+| 819 | 花火       | hanabi (হনাবি)                 | fireworks            | আতশবাজি            |
+| 820 | 空港       | kuukou (কূকৌ)                  | airport              | বিমানবন্দর         |
+| 821 | 地図       | chizu (চিজু)                   | map                  | মানচিত্র           |
+| 822 | 海        | umi (উমি)                      | sea                  | সমুদ্র             |
+| 823 | 山        | yama (ইয়ামা)                   | mountain             | পাহাড়              |
+| 824 | 川        | kawa (কাওয়া)                   | river                | নদী                |
+| 825 | 湖        | mizuumi (মিজু-উমি)             | lake                 | হ্রদ               |
+| 826 | 森        | mori (মরি)                     | forest               | বন                 |
+| 827 | 林        | hayashi (হায়াশি)               | woods                | জঙ্গল              |
+| 828 | 畑        | hatake (হাতাকে)                | field, farm          | ক্ষেত, কৃষিক্ষেত্র |
+| 829 | 動物園      | doubutsuen (দৌবুত্সু-এন)       | zoo                  | চিড়িয়াখানা         |
+| 830 | 公園       | kouen (কোউএন)                  | park                 | পার্ক              |
+| 831 | 道        | michi (মিচি)                   | road                 | রাস্তা             |
+| 832 | 橋        | hashi (হাশি)                   | bridge               | সেতু               |
+| 833 | 車        | kuruma (কুরুমা)                | car                  | গাড়ি               |
+| 834 | 自転車      | jitensha (জিতেনশা)             | bicycle              | সাইকেল             |
+| 835 | バス       | basu (বাসু)                    | bus                  | বাস                |
+| 836 | 電車       | densha (দেনশা)                 | train                | ট্রেন              |
+| 837 | 飛行機      | hikouki (হিকৌকি)               | airplane             | বিমান              |
+| 838 | 船        | fune (ফুনে)                    | ship, boat           | জাহাজ, নৌকা        |
+| 839 | 駅        | eki (একি)                      | station              | স্টেশন             |
+| 840 | 切符       | kippu (কিপ্পু)                 | ticket               | টিকিট              |
+| 841 | 料金       | ryoukin (র্যৌকিন)              | fare, charge         | ভাড়া, চার্জ        |
+| 842 | 改札口      | kaisatsuguchi (কাইসাতসুগুচি)   | ticket gate          | টিকিট গেট          |
+| 843 | 時刻表      | jikokuhyou (জিকোকুহিয়ৌ)        | timetable            | সময়সূচি            |
+| 844 | 旅行       | ryokou (র্যোকৌ)                | travel, trip         | ভ্রমণ              |
+| 845 | 観光       | kankou (কানকৌ)                 | sightseeing          | ভ্রমণ, দর্শন       |
+| 846 | 旅館       | ryokan (র্যোকান)               | Japanese inn         | জাপানি হোটেল       |
+| 847 | ホテル      | hoteru (হোটেলু)                | hotel                | হোটেল              |
+| 848 | 予約       | yoyaku (ইয়োয়াকু)               | reservation          | রিজার্ভেশন         |
+| 849 | 荷物       | nimotsu (নিমোৎসু)              | luggage              | মালপত্র            |
+| 850 | 住所       | juusho (জূশো)                  | address              | ঠিকানা             |
+| 851 | 郵便局      | yuubinkyoku (ইউবিনকিয়োকু)      | post office          | ডাকঘর              |
+| 852 | 郵便番号     | yuubin bangou (ইউবিন বাংগোউ)   | postal code          | পোস্টাল কোড        |
+| 853 | 手紙       | tegami (তেগামি)                | letter               | চিঠি               |
+| 854 | 葉書       | hagaki (হাগাকি)                | postcard             | পোস্টকার্ড         |
+| 855 | 切手       | kitte (কিত্তে)                 | postage stamp        | ডাকটিকিট           |
+| 856 | 封筒       | fuutou (ফুতৌ)                  | envelope             | খাম                |
+| 857 | 小包       | kozutsumi (কোজুতসুমি)          | parcel               | পার্সেল            |
+| 858 | 速達       | sokutatsu (সোকুতাত্সু)         | express mail         | এক্সপ্রেস চিঠি     |
+| 859 | 書留       | kakitome (কাকিতোমে)            | registered mail      | রেজিস্টার্ড চিঠি   |
+| 860 | 送る       | okuru (ওকুরু)                  | to send              | পাঠানো             |
+| 861 | 受け取る     | uketoru (উকেতোরু)              | to receive           | গ্রহণ করা          |
+| 862 | 届ける      | todokeru (তোদোকেড়ু)            | to deliver           | পৌঁছে দেওয়া        |
+| 863 | 着く       | tsuku (ৎসুকু)                  | to arrive            | পৌঁছানো            |
+| 864 | 出発       | shuppatsu (শুপপাতসু)           | departure            | যাত্রা শুরু        |
+| 865 | 到着       | touchaku (তোউচাকু)             | arrival              | পৌঁছানো (আগমন)     |
+| 866 | 空港       | kuukou (কু-উকৌ)                | airport              | বিমানবন্দর         |
+| 867 | 搭乗口      | toujouguchi (তোউজৌগুচি)        | boarding gate        | বোর্ডিং গেট        |
+| 868 | 便        | bin (বিন)                      | flight (number)      | ফ্লাইট (নম্বর)     |
+| 869 | 航空券      | koukuuken (কৌকু-উকেন)          | plane ticket         | বিমানের টিকিট      |
+| 870 | 運転       | unten (উনতেন)                  | driving              | ড্রাইভিং           |
+| 871 | 運転手      | untenshu (উনতেনশু)             | driver               | চালক               |
+| 872 | 歩く       | aruku (আরুকু)                  | to walk              | হাঁটা              |
+| 873 | 走る       | hashiru (হাশিরু)               | to run               | দৌড়ানো             |
+| 874 | 急ぐ       | isogu (ইসোগু)                  | to hurry             | তাড়াহুড়া করা       |
+| 875 | 遅れる      | okureru (ওকুরেরু)              | to be late           | দেরি হওয়া          |
+| 876 | 間に合う     | maniau (মানিয়াউ)               | to be on time        | সময়মত হওয়া         |
+| 877 | 止まる      | tomaru (তোমারু)                | to stop              | থেমে যাওয়া         |
+| 878 | 止める      | tomeru (তোমেরু)                | to stop (something)  | থামানো             |
+| 879 | 曲がる      | magaru (মাগারু)                | to turn              | বাঁক নেওয়া         |
+| 880 | 渡る       | wataru (ওতারু)                 | to cross             | পার হওয়া           |
+| 881 | 上る       | noboru (নোবোরু)                | to go up, climb      | উঠা                |
+| 882 | 下りる      | oriru (ওরিরু)                  | to go down, descend  | নামা               |
+| 883 | 降りる      | oriru (ওরিরু)                  | to get off (vehicle) | নামা               |
+| 884 | 乗る       | noru (নোরু)                    | to get on, ride      | চড়া                |
+| 885 | 降る       | furu (ফুরু)                    | to fall (rain, snow) | পড়া (বৃষ্টি/বরফ)   |
+| 886 | 晴れる      | hareru (হারেরু)                | to clear up          | পরিষ্কার হওয়া      |
+| 887 | 曇る       | kumoru (কুমোরু)                | to get cloudy        | মেঘলা হওয়া         |
+| 888 | 汚い       | kitanai (কিতানাই)              | dirty                | নোংরা              |
+| 889 | 綺麗       | kirei (কিরেই)                  | clean, beautiful     | পরিষ্কার, সুন্দর   |
+| 890 | 便利       | benri (বেনরি)                  | convenient           | সুবিধাজনক          |
+| 891 | 不便       | fuben (ফুবেন)                  | inconvenient         | অসুবিধাজনক         |
+| 892 | 安全       | anzen (আনজেন)                  | safe                 | নিরাপদ             |
+| 893 | 危険       | kiken (কিকেন)                  | dangerous            | বিপজ্জনক           |
+| 894 | 静か       | shizuka (শিজুকা)               | quiet                | শান্ত              |
+| 895 | にぎやか     | nigiyaka (নিগিয়াকা)            | lively, bustling     | কোলাহলপূর্ণ        |
+| 896 | 暑い       | atsui (আতসুই)                  | hot (weather)        | গরম                |
+| 897 | 寒い       | samui (সামুই)                  | cold (weather)       | ঠাণ্ডা             |
+| 898 | 涼しい      | suzushii (সুজুশিই)             | cool                 | ঠাণ্ডা             |
+| 899 | 暖かい      | atatakai (আতাতাকাই)            | warm                 | উষ্ণ               |
+| 900 | 天気予報     | tenki yohou (তেনকি ইয়োহো)      | weather forecast     | আবহাওয়ার পূর্বাভাস |
+| 901 | 朝        | asa (আসা)                      | morning                 | সকাল                          |
+| 902 | 昼        | hiru (হিরু)                    | noon                    | দুপুর                         |
+| 903 | 夜        | yoru (ইয়োরু)                   | night                   | রাত                           |
+| 904 | 夕方       | yuugata (ইউউগাতা)              | evening                 | সন্ধ্যা                       |
+| 905 | 今朝       | kesa (কেসা)                    | this morning            | আজ সকাল                       |
+| 906 | 昨日       | kinou (কিনৌ)                   | yesterday               | গতকাল                         |
+| 907 | 今日       | kyou (কিয়ৌ)                    | today                   | আজ                            |
+| 908 | 明日       | ashita (আশিতা)                 | tomorrow                | আগামীকাল                      |
+| 909 | 毎日       | mainichi (মাইনিচি)             | every day               | প্রতিদিন                      |
+| 910 | 毎週       | maishuu (মাইশু)                | every week              | প্রতি সপ্তাহ                  |
+| 911 | 毎月       | maitsuki (মাইৎসুকি)            | every month             | প্রতি মাস                     |
+| 912 | 毎年       | maitoshi (মাইতোশি)             | every year              | প্রতি বছর                     |
+| 913 | 週末       | shuumatsu (শূউমাত্সু)          | weekend                 | সপ্তাহান্ত                    |
+| 914 | 平日       | heijitsu (হেইজিত্সু)           | weekday                 | কর্মদিবস                      |
+| 915 | 休み       | yasumi (ইয়াসুমি)               | holiday, rest           | ছুটি, বিশ্রাম                 |
+| 916 | 夏休み      | natsuyasumi (নাত্সু-ইয়াসুমি)  | summer vacation         | গ্রীষ্মের ছুটি                |
+| 917 | 冬休み      | fuyuyasumi (ফুয়ু-ইয়াসুমি)      | winter vacation         | শীতের ছুটি                    |
+| 918 | 春休み      | haruyasumi (হারু-ইয়াসুমি)      | spring vacation         | বসন্তের ছুটি                  |
+| 919 | 時間       | jikan (জিকান)                  | time, hour              | সময়, ঘণ্টা                    |
+| 920 | 分        | fun/pun (ফুন/পুন)              | minute                  | মিনিট                         |
+| 921 | 秒        | byou (বিয়ৌ)                    | second                  | সেকেন্ড                       |
+| 922 | 半        | han (হান)                      | half                    | অর্ধেক                        |
+| 923 | 時計       | tokei (তোকেই)                  | clock, watch            | ঘড়ি                           |
+| 924 | カレンダー    | karendaa (কারেনদা)             | calendar                | ক্যালেন্ডার                   |
+| 925 | 約束       | yakusoku (ইয়াকুসোকু)           | promise, appointment    | প্রতিশ্রুতি, অ্যাপয়েন্টমেন্ট |
+| 926 | 待つ       | matsu (মাতসু)                  | to wait                 | অপেক্ষা করা                   |
+| 927 | 遅刻       | chikoku (চিকোকু)               | lateness                | দেরি করা                      |
+| 928 | 急ぐ       | isogu (ইসোগু)                  | to hurry                | তাড়াহুড়া করা                  |
+| 929 | 早い       | hayai (হায়াই)                  | early                   | তাড়াতাড়ি                      |
+| 930 | 遅い       | osoi (ওসোই)                    | late, slow              | দেরি, ধীর                     |
+| 931 | 速い       | hayai (হায়াই)                  | fast                    | দ্রুত                         |
+| 932 | 開く       | hiraku (হিরাকু)                | to open                 | খোলা                          |
+| 933 | 閉まる      | shimaru (শিমারু)               | to close (intransitive) | বন্ধ হওয়া                     |
+| 934 | 始まる      | hajimaru (হাজিমারু)            | to begin (intransitive) | শুরু হওয়া                     |
+| 935 | 終わる      | owaru (ওওয়ারু)                 | to end, finish          | শেষ হওয়া                      |
+| 936 | 始める      | hajimeru (হাজিমেরু)            | to begin (transitive)   | শুরু করা                      |
+| 937 | 終える      | oeru (ওয়েরু)                   | to finish (transitive)  | শেষ করা                       |
+| 938 | 会う       | au (আউ)                        | to meet                 | দেখা করা                      |
+| 939 | 集まる      | atsumaru (আৎসুমারু)            | to gather               | জড়ো হওয়া                      |
+| 940 | 別れる      | wakareru (ওয়াকারেরু)           | to separate, part       | আলাদা হওয়া                    |
+| 941 | 泣く       | naku (নাকু)                    | to cry                  | কাঁদা                         |
+| 942 | 笑う       | warau (ওয়ারাউ)                 | to laugh, smile         | হাসা                          |
+| 943 | 喜ぶ       | yorokobu (ইয়োরোকোবু)           | to be pleased           | খুশি হওয়া                     |
+| 944 | 怒る       | okoru (ওকোরু)                  | to get angry            | রাগ করা                       |
+| 945 | 驚く       | odoroku (ওদোরোকু)              | to be surprised         | অবাক হওয়া                     |
+| 946 | 思う       | omou (ওমৌউ)                    | to think                | ভাবা                          |
+| 947 | 考える      | kangaeru (কাঙ্গায়েরু)          | to consider, think      | চিন্তা করা                    |
+| 948 | 信じる      | shinjiru (শিনজিরু)             | to believe              | বিশ্বাস করা                   |
+| 949 | 知る       | shiru (শিরু)                   | to know                 | জানা                          |
+| 950 | 忘れる      | wasureru (ওয়াসুরেরু)           | to forget               | ভুলে যাওয়া                    |
+| 951 | 覚える      | oboeru (ওবোএরু)                | to memorize             | মুখস্থ করা                    |
+| 952 | 教える      | oshieru (ওশিয়েড়ু)              | to teach, tell          | শেখানো, বলা                   |
+| 953 | 習う       | narau (নারাউ)                  | to learn                | শেখা                          |
+| 954 | 学ぶ       | manabu (মানাবু)                | to study, learn         | পড়াশোনা করা                   |
+| 955 | 勉強       | benkyou (বেনকিয়ৌ)              | study                   | পড়াশোনা                       |
+| 956 | 試験       | shiken (শিকেন)                 | exam                    | পরীক্ষা                       |
+| 957 | 質問       | shitsumon (শিতসুমোন)           | question                | প্রশ্ন                        |
+| 958 | 答え       | kotae (কোতায়ে)                 | answer                  | উত্তর                         |
+| 959 | 本        | hon (হোন)                      | book                    | বই                            |
+| 960 | 雑誌       | zasshi (জাশ্চি)                | magazine                | ম্যাগাজিন                     |
+|     |          |                                |                         |                               |
