@@ -4,6 +4,17 @@
 
 ### *For Bengali Students: Learn to Read & Write Everything Without Kanji*
 
+## 📚 শেখার সঠিক ধাপ (Step-by-Step Guide in Bangla)
+
+## 🇯🇵 কানা শেখার সহজ ধাপ (Combination Bangla-English)
+
+1️⃣ প্রথমে **Hiragana basic chart** শিখো।  
+2️⃣ তারপর **Katakana basic chart** শিখো।  
+3️⃣ এরপর **Dakuten/Handakuten ** গুলো শিখো।  
+4️⃣ তারপর **Combination Kana (Yōon: ক্যা, শা, চো ইত্যাদি)** শিখো।  
+5️⃣ এরপর ছোট **"Tsu" (っ / ッ - double consonant এর জন্য)** শিখো।  
+6️⃣ সব শেষে প্রতিদিন সব কানা দিয়ে **reading, writing, listening** প্র্যাকটিস করো।
+
 ---
 
 ## 🌸 1. **Hiragana (ひらがな) — The Basics**
@@ -151,37 +162,8 @@ Same logic as Hiragana — just different shape.
 6. **Listen to native audio for each sound ([YouTube kana song](https://www.youtube.com/results?search_query=hiragana+song)).**
 7. **Try spelling Bengali names in kana!**
 
----
-
-## 🟣 **Practice Sentences (Mix)**
-
-* わたしはバナナをたべます。(*watashi wa banana o tabemasu*)
-  Banglish: *ami banana khai*
-  Bangla: আমি কলা খাই।
-  Meaning: I eat banana.
-
-* コンビニでコーヒーをのみます。(*konbini de koohii o nomimasu*)
-  Banglish: konbini te coffee khai
-  Bangla: দোকানে কফি খাই
-  Meaning: I drink coffee at the store.
-
----
-
-## 🏁 **Summary Table: Bulletproof Progress**
-
-| What to Learn                 | Included | Practice Needed |
-| ----------------------------- | :------: | :-------------: |
-| Hiragana Basic                |     ✅    |        ✅        |
-| Katakana Basic                |     ✅    |        ✅        |
-| Dakuten/Handakuten (Voiced)   |     ✅    |        ✅        |
-| Combination Kana (Yōon)       |     ✅    |        ✅        |
-| Small Tsu (っ / ッ)             |     ✅    |        ✅        |
-| Banglish/Bangla Pronunciation |     ✅    |        ✅        |
-| Reading Examples              |     ✅    |        ✅        |
-| Writing Practice              |     ➖    |        ✅        |
-| Listening/Quizzes             |     ➖    |        ✅        |
-
----
+ 
+ 
 
 ### **Bottom Line**
 
